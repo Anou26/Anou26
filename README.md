@@ -35,6 +35,18 @@ and responding to human languages in a way that is both meaningful and useful. C
 - 💬 Ask me about **Databases, Data Analytics, NLP, ML, Data Structures and Algorithms, Programming languages like Python, Java, R and SQL**
  
 - 💎 Here's the link to my Resume ➡️ https://drive.google.com/file/d/1Y8-ayTYfZxmPIglxioCtcUlTYLq4JOZ3/view?usp=sharing
+
+- - 📝 Read my Papers below:
+
+ **Business Analytics**: **Case Study on Business Governance using Data Analytics** here ➡️ https://drive.google.com/file/d/1t9cILVsA_rRY8HEWp160nO33YmHicpBX/view?usp=sharing
+
+ **Data Science**: **Project Report on Hybrid Movie Recommendation System** here ➡️ https://drive.google.com/file/d/1C8B3BXJmTq0v69G6un4tLvsReSf2CGpl/view?usp=sharing
+
+ **Computer Architecture**: **Term Paper on Cognitive Computing: The Future of Augmented Intelligence** here ➡️ https://drive.google.com/file/d/1f3cNr2ROE5U25yAtin97X5KfZH9LTbfu/view?usp=sharing
+
+ **Cryptography and Network Security**: **Term Paper on Assessing the Efficacy of Lightweight Encryption
+Methods for Protecting Medical Imaging Data in
+Internet of Medical Things (IOMT) Environment** here ➡️ https://drive.google.com/file/d/1nA-AgP17aMb8K94vR0iastIB8Jm0iJkH/view?usp=sharing
   
 - 📫 Feel free to reach me at ➡️ amergoju@syr.edu
 
@@ -44,11 +56,7 @@ and responding to human languages in a way that is both meaningful and useful. C
 
 - ⚡ Fun fact: I am passionate about 𝗟𝗶𝘁𝗲𝗿𝗮𝘁𝘂𝗿𝗲, 𝗔𝗿𝘁, 𝗙𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗠𝗮𝗿𝗸𝗲𝘁𝘀, 𝗮𝗻𝗱 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗣𝗼𝗹𝗶𝘁𝗶𝗰𝘀/𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀. Did you know -> I was the Editor-in-Chief for my University's Magazine and also an Assistant Director - Executive Board for Harvard Model United Nations? I also led a literature and theatre club in my junior year of college 😄
 
-- 📝 Read my **Case Study on Business Governance using Data Analytics** here ➡️ https://drive.google.com/file/d/1t9cILVsA_rRY8HEWp160nO33YmHicpBX/view?usp=sharing
 
-- 📝Read my **Project Report on Hybrid Movie Recommendation System** here ➡️ https://drive.google.com/file/d/1C8B3BXJmTq0v69G6un4tLvsReSf2CGpl/view?usp=sharing
-
-- 📝 Read my **Term Paper on Cognitive Computing: The Future of Augmented Intelligence** here ➡️ https://drive.google.com/file/d/1f3cNr2ROE5U25yAtin97X5KfZH9LTbfu/view?usp=sharing
 
 
 
