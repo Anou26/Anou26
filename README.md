@@ -28,15 +28,13 @@ Graduated First Class with Distinction (Summa Cum Laude) with a Bachelor's Degre
 - 📄 Domain Expert: Logistics and Supply Chain, EdTech, Finance and IT 
   
 - 🌱 I’m currently enrolled in the course, **Applied Natural Language Processing** at University where I'm learning how to enable computers in understanding, interpreting,
-and responding to human languages in a way that is both meaningful and useful.
+and responding to human languages in a way that is both meaningful and useful. Currently, I'm very interested in LLMs and Generative-AI. Hit me up if you want to chat
 
 - 👯 I’m looking to collaborate on **Data Science and Data Engineering projects, Hackathons and Coding Contests**.
-
-- 🤔 I’m looking for help in the expansive domain of AI and seek expertise in **LLMs and Generative-AI** to keep up with the fast-changing technology landscape.
   
 - 💬 Ask me about **Databases, Data Analytics, NLP, ML, Data Structures and Algorithms, Programming languages like Python, Java, R and SQL**
  
-- 💎 Here's the link to my Resume: **https://drive.google.com/file/d/1Y8-ayTYfZxmPIglxioCtcUlTYLq4JOZ3/view?usp=sharing**
+- 💎 Here's the link to my Resume: https://drive.google.com/file/d/1Y8-ayTYfZxmPIglxioCtcUlTYLq4JOZ3/view?usp=sharing
   
 - 📫 Feel free to reach me at: amergoju@syr.edu
 
