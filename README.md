@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Anoushka Mergoju! 👋
 ## Computer Science Grad @ Syracuse University, New York | New Grad 2024 | Operations Research Assistant | Data Analytics and Data Engineering Specialist | WiDS Ambassador 2024 | Interested in Data and Decision Science, Software Development and Machine Learning. 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anou26&label=Profile%20views&color=0e75b6&style=flat" alt="Anou26" /> </p>
+
 🏅𝗔𝗖𝗔𝗗𝗘𝗠𝗜𝗖 𝗘𝗫𝗖𝗘𝗟𝗟𝗘𝗡𝗖𝗘
 
 ❐ 𝗠𝗮𝘀𝘁𝗲𝗿'𝘀 𝗖𝗮𝗻𝗱𝗶𝗱𝗮𝘁𝗲 𝗶𝗻 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗮𝗻𝗱 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗰𝗶𝗲𝗻𝗰𝗲𝘀 at Syracuse University, with a solid focus on 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴.
