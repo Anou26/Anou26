@@ -44,8 +44,11 @@ and responding to human languages in a way that is both meaningful and useful. C
 
 - ⚡ Fun fact: I am passionate about 𝗟𝗶𝘁𝗲𝗿𝗮𝘁𝘂𝗿𝗲, 𝗔𝗿𝘁, 𝗙𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗠𝗮𝗿𝗸𝗲𝘁𝘀, 𝗮𝗻𝗱 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗣𝗼𝗹𝗶𝘁𝗶𝗰𝘀/𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀. Did you know -> I was the Editor-in-Chief for my University's Magazine and also an Assistant Director - Executive Board for Harvard Model United Nations? I also led a literature and theatre club in my junior year of college 😄
 
-- 📝 Read my Case Study on Business Governance using Data Analytics here ➡️ https://drive.google.com/file/d/1t9cILVsA_rRY8HEWp160nO33YmHicpBX/view?usp=sharing
+- 📝 Read my **Case Study on Business Governance using Data Analytics** here ➡️ https://drive.google.com/file/d/1t9cILVsA_rRY8HEWp160nO33YmHicpBX/view?usp=sharing
 
-- 
+- 📝Read my **Project Report on Hybrid Movie Recommendation System** here ➡️ https://drive.google.com/file/d/1C8B3BXJmTq0v69G6un4tLvsReSf2CGpl/view?usp=sharing
+
+- 📝 Read my **Term Paper on Cognitive Computing: The Future of Augmented Intelligence** here ➡️ https://drive.google.com/file/d/1f3cNr2ROE5U25yAtin97X5KfZH9LTbfu/view?usp=sharing
+
 
 
