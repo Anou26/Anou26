@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Anoushka! 👋
+# Hi there 👋 I'm Anoushka Mergoju! 👋
 ## Computer Science Grad @ Syracuse University, New York | New Grad 2024 | Operations Research Assistant | Data Analytics and Data Engineering Specialist | WiDS Ambassador 2024 | Interested in Data and Decision Science, Software Development and Machine Learning. 
 
 🏅𝗔𝗖𝗔𝗗𝗘𝗠𝗜𝗖 𝗘𝗫𝗖𝗘𝗟𝗟𝗘𝗡𝗖𝗘
