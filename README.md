@@ -56,7 +56,44 @@ Internet of Medical Things (IOMT) Environment** here ➡️ https://drive.google
 
 - ⚡ Fun fact: I am passionate about 𝗟𝗶𝘁𝗲𝗿𝗮𝘁𝘂𝗿𝗲, 𝗔𝗿𝘁, 𝗙𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗠𝗮𝗿𝗸𝗲𝘁𝘀, 𝗮𝗻𝗱 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗣𝗼𝗹𝗶𝘁𝗶𝗰𝘀/𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀. Did you know -> I was the Editor-in-Chief for my University's Magazine and also an Assistant Director - Executive Board for Harvard Model United Nations? I also led a literature and theatre club in my junior year of college 😄
 
+<h3 align="left">Programming Languages and Tools:</h3>
+<p align="left">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <!-- C++ -->
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" width="40" height="40"/> </a>
+  <!-- C -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <!-- R -->
+  <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="r" width="40" height="40"/> </a>
+  <!-- SQL -->
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
+  <!-- Haskell -->
+  <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
+  <!-- UNIX -->
+  <a href="https://en.wikipedia.org/wiki/Unix" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Unix.png" alt="unix" width="40" height="40"/> </a>
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <!-- CSS -->
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <!-- MATLAB -->
+  <a href="https://matlab.mathworks.com/" target="_blank"> <img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg" alt="matlab" width="40" height="40"/> </a>
+  <!-- XML -->
+  <a href="https://www.w3.org/XML/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="xml" width="40" height="40"/> </a>
+</p>
 
+<h3 align="left">Frameworks:</h3>
+<p align="left">
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <!-- Keras -->
+  <a href="https://keras.io/" target="_blank
 
 
 
