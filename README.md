@@ -1,5 +1,6 @@
-# Hi there 👋 I'm Anoushka Mergoju! 👋
-## Computer Science Grad @ Syracuse University, New York | New Grad 2024 | Operations Research Assistant | Data Analytics and Data Engineering Specialist | WiDS Ambassador 2024 | Interested in Data and Decision Science, Software Development and Machine Learning. 
+<h1 align="center">Hi there!👋 I'm Anoushka Mergoju! </h1>
+
+## New Grad 2024 | Operations Research Assistant | Data Analytics and Data Engineering Specialist |  Interested in Data and Decision Science, Software Development and Machine Learning. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anou26&label=Profile%20views&color=0e75b6&style=flat" alt="Anou26" /> </p>
 
@@ -97,6 +98,11 @@ Internet of Medical Things (IOMT) Environment** here ➡️ https://drive.google
   <!-- Keras -->
   <a href="https://keras.io/" target="_blank
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anou26&show_icons=true&locale=en&layout=compact" alt="Anou26" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anou26&show_icons=true&locale=en" alt="Anou26" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anou26&" alt="Anou26" /></p>
 
 
 
