@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!👋 I'm Anoushka Mergoju! </h1>
 
-## New Grad 2024 | Operations Research Assistant | Data Analytics and Data Engineering Specialist |  Interested in Data and Decision Science, Software Development and Machine Learning. 
+## New Grad 2024 | Operations Research Analyst | Data Analytics and Data Engineering Specialist |  Interested in Data and Decision Science, Software Development and Machine Learning. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anou26&label=Profile%20views&color=0e75b6&style=flat" alt="Anou26" /> </p>
 
