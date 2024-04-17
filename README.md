@@ -37,7 +37,9 @@ and responding to human languages in a way that is both meaningful and useful. C
   
 - 💬 Ask me about **Databases, Data Analytics, NLP, ML, Data Structures and Algorithms, Programming languages like Python, Java, R and SQL**
  
-- 💎 Here's the link to my Resume ➡️ https://drive.google.com/file/d/1Y8-ayTYfZxmPIglxioCtcUlTYLq4JOZ3/view?usp=sharing
+- 💎 Here's the link to my Data Profile Resume ➡️ https://drive.google.com/file/d/1LCBh0_ZWhz7wwZlBTjma6axYWtgLm88n/view?usp=sharing
+  
+- 💎 Here's the link to my Software Engineer Profile Resume ➡️ https://drive.google.com/file/d/1Y8-ayTYfZxmPIglxioCtcUlTYLq4JOZ3/view?usp=sharing
 
 - - 📝 Read my Papers below:
 
