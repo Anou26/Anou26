@@ -19,25 +19,65 @@
   <img src="https://img.shields.io/badge/Pronouns-She%2FHer-blue" alt="pronouns">
 </p>
 
-
-
-
-### 🏅 Academic Excellence
-
-- **Master's Candidate in Computer and Information Sciences** at Syracuse University, focusing on **Data Science, Data Engineering and Software Engineering**. 
-- Graduated First Class with Distinction (Summa Cum Laude) with a Bachelor's Degree in CS from GITAM University, India.
-
-**Awards & Recognition:**
-- EECS Excellence Scholar Award and a Summer Research Grant from Syracuse University.
-- Two academic merit scholarships at GITAM University, India.
-
----
-
 ### 🚀 Career Aspirations
 
 - **Graduated in May 2024**; actively seeking **early-career or new graduate opportunities**.
 - Interested in roles related to **Data and Decision Science, Machine Learning, Data Engineering**, and **Software Engineering**.
 
+---
+### 🛠️ My Technical Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
+  <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" alt="Haskell">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white" alt="XML">
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/-REST-007EC6?style=flat-square&logo=rest&logoColor=white" alt="REST">
+  <img src="https://img.shields.io/badge/-SOAP-FF7800?style=flat-square&logo=soap&logoColor=white" alt="SOAP">
+  <img src="https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-Oracle-FF0000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/-MS%20Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white" alt="MS Access">
+  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio">
+  <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm">
+  <img src="https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=black" alt="Colab">
+  <img src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ">
+  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse">
+  <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
+  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
+  <img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white" alt="Sublime Text">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"
+    
+- 🚀 **I'm always excited to apply my diverse skill set to solve real-world problems and contribute to innovative projects!** 
 ---
 
 ### 💼 Professional Experience
@@ -97,45 +137,6 @@
 - I'm a multi-passionate individual with a love for **Literature, Art, Financial Markets, and International Politics/Relations**.
 - *Imagine a day starting with Shakespeare, diving into stock charts, and ending with a debate on global affairs!*
 
-
-<h3 align="left">Programming Languages and Tools:</h3>
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <!-- C++ -->
-  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" width="40" height="40"/> </a>
-  <!-- C -->
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <!-- R -->
-  <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="r" width="40" height="40"/> </a>
-  <!-- SQL -->
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
-  <!-- Haskell -->
-  <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
-  <!-- UNIX -->
-  <a href="https://en.wikipedia.org/wiki/Unix" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Unix.png" alt="unix" width="40" height="40"/> </a>
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <!-- MATLAB -->
-  <a href="https://matlab.mathworks.com/" target="_blank"> <img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg" alt="matlab" width="40" height="40"/> </a>
-  <!-- XML -->
-  <a href="https://www.w3.org/XML/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="xml" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">Frameworks:</h3>
-<p align="left">
-  <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <!-- Keras -->
-  <a href="https://keras.io/" target="_blank
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anou26&show_icons=true&locale=en&layout=compact" alt="Anou26" /></p>
 
