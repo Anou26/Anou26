@@ -13,8 +13,13 @@
   <a href="https://www.linkedin.com/in/anoushkamergoju/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
+  <a href="https://leetcode.com/u/AnouMer/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode Badge">
+  </a>
   <img src="https://img.shields.io/badge/Pronouns-She%2FHer-blue" alt="pronouns">
 </p>
+
+
 
 
 ### 🏅 Academic Excellence
