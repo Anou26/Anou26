@@ -82,18 +82,16 @@
 
 ### 📫 Contact
 
-- Feel free to reach me at: **amergoju@syr.edu**
+- Feel free to reach me at: **amergoju@syr.edu** or **anoushkamergoju@gmail.com**
 - Connect on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anoushkamergoju/)
 
 ---
 
 ### ⚡ Fun Fact
 
-- I am passionate about **Literature, Art, Financial Markets, and International Politics/Relations**.
-- I was the Editor-in-Chief for my University's Magazine and an Assistant Director - Executive Board for Harvard Model United Nations.
-- I also led a literature and theatre club in my junior year of college!
+- I'm a multi-passionate individual with a love for **Literature, Art, Financial Markets, and International Politics/Relations**.
+- *Imagine a day starting with Shakespeare, diving into stock charts, and ending with a debate on global affairs!*
 
----
 
 <h3 align="left">Programming Languages and Tools:</h3>
 <p align="left">
