@@ -2,7 +2,10 @@
   Hi there! 👋 I'm Anoushka Mergoju!
   <br>
   <img src="https://github.com/Anou26/Anou26/raw/main/typing.gif" alt="Typing SVG">
+  <br>
+  <img src="https://github.com/Anou26/Anou26/raw/main/ezgif.com-crop.gif" alt="Animated Hello" width="200" height="200" style="display:inline;">
 </h1>
+
 
 ## Operations Research Analyst | Data Analytics and Data Engineering Specialist | Interested in Data and Decision Science, Software Development, and Machine Learning
 <p align="left">
