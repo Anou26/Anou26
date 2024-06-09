@@ -7,7 +7,7 @@
 </h1>
 
 
-## Operations Research Analyst | Data Analytics and Data Engineering Specialist | Interested in Data and Decision Science, Software Development, and Machine Learning
+## Operations Research Analyst | Data Analytics and Data Engineering Specialist 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Anou26&label=Profile%20views&color=0e75b6&style=flat" alt="Anou26" />
   <img src="https://img.shields.io/badge/Pronouns-She%2FHer-blue" alt="pronouns">
