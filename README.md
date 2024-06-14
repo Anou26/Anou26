@@ -16,8 +16,15 @@
   <a href="https://leetcode.com/u/AnouMer/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode Badge">
   </a>
+  <a href="https://medium.com/@anoushkamergoju">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white" alt="Medium Badge">
+  </a>
+  <a href="https://coderspacket.com/contributor/Anoushka">
+    <img src="https://img.shields.io/badge/-CodersPacket-1E90FF?style=flat-square&logo=CodersPacket&logoColor=white" alt="CodersPacket Badge">
+  </a>
   <img src="https://img.shields.io/badge/Pronouns-She%2FHer-blue" alt="pronouns">
 </p>
+
 
 ### 🚀 Career Aspirations
 
