@@ -84,23 +84,55 @@
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"
     
-- 🚀 **I'm always excited to apply my diverse skill set to solve real-world problems and contribute to innovative projects!** 
+- 🚀 **I'm always excited to apply my diverse skill set to solve real-world problems and contribute to innovative projects!**
+
+  ---
+  
+### 👩🏻‍💻💼📋 View My Projects
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+### Data Science and Machine Learning
+- [Hybrid Movie Recommendation System](https://github.com/Anou26/Projects/blob/main/CIS563_Term_Project.ipynb)
+- [Handwritten Digit Prediction](https://github.com/Anou26/Projects/blob/main/Handwritten_Digit_Prediction.ipynb)
+- [Stock Prediction using Facebook Prophet](https://github.com/Anou26/Projects/blob/main/Stocks_using_Facebook_Prophet.ipynb)
+
+### Deep Learning
+- [Heart Attack Detection using Sequential Model](https://github.com/Anou26/Projects/blob/main/Heart_Attack_detection.ipynb)
+- [COVID-19 Stock Price Forecasting using LSTM and ARIMA](https://github.com/Anou26/Mini-Project)
+  
+    </td>
+    <td valign="top" width="34%">
+
+### AI and NLP
+- [WellBot: AI Support Healthcare and Mental Health ChatBot](https://github.com/Riya-JK/WellBot)
+- [COVID Tweet-Sentiment (Dual Model Analysis of the Pandemic)](https://github.com/Anou26/COVID-Tweet-Sentiment-Dual-Model-Analysis-of-the-Pandemic)
+- [COVID Tweet-Sentiment (Multiclass Classification Models Empirical Analysis)](https://github.com/Anou26/Empirical-Study-and-Comparison-Project)
+- [Basic ChatBot Development](https://github.com/Anou26/Projects/blob/main/Chatbot.ipynb)
+
+    </td>
+    <td valign="top" width="33%">
+
+### Cryptography
+- [Lightweight Encryption Methods for Protecting Medical Imaging Data in IoMT](https://github.com/Anou26/Lightweight-Encryption-Crypto-Project)
+
+### Web Application Development
+- [Smart TextBook Exchange Web Application](https://github.com/Anou26/Smart-TextBook-Exchange-Web-App)
+
+    </td>
+  </tr>
+</table>
+
 ---
 
-### 💼 Professional Experience
+### 📝 View my Papers:
 
-- **Recent Role:** Operations Research Analyst at the EECS Department of Syracuse University.
-- **Project Focus:** Worked on an Operations Research project involving:
-  - **Predictive Analytics** in Drone Routing Research
-  - Integration of **data-driven tools** with **Machine Learning techniques**
-  - **Algorithm Design and Development**
-  - **Modeling and Simulation** strategies
-
-**Previous Roles:**
-- Data Analyst Intern and Python Developer Intern at various start-up organizations in India.
-
-**Domain Expertise:**
-- Logistics and Supply Chain, EdTech, Finance, and IT
+- **Business Analytics:** [Case Study on Business Governance using Data Analytics](https://drive.google.com/file/d/1t9cILVsA_rRY8HEWp160nO33YmHicpBX/view?usp=sharing)
+- **Data Science:** [Project Report on Hybrid Movie Recommendation System](https://drive.google.com/file/d/1C8B3BXJmTq0v69G6un4tLvsReSf2CGpl/view?usp=sharing)
+- **Computer Architecture:** [Term Paper on Cognitive Computing: The Future of Augmented Intelligence](https://drive.google.com/file/d/1f3cNr2ROE5U25yAtin97X5KfZH9LTbfu/view?usp=sharing)
+- **Cryptography and Network Security:** [Term Paper on Assessing the Efficacy of Lightweight Encryption Methods for Protecting Medical Imaging Data in Internet of Medical Things (IOMT) Environment](https://drive.google.com/file/d/1nA-AgP17aMb8K94vR0iastIB8Jm0iJkH/view?usp=sharing)
 
 ---
 
@@ -120,15 +152,6 @@
 ### 💬 Expertise
 
 - Databases, Data Analytics, Big Data, NLP, ML, Data Structures and Algorithms, Programming languages like Python, Java, R, and SQL
-
----
-
-### 📝 View my Papers:
-
-- **Business Analytics:** [Case Study on Business Governance using Data Analytics](https://drive.google.com/file/d/1t9cILVsA_rRY8HEWp160nO33YmHicpBX/view?usp=sharing)
-- **Data Science:** [Project Report on Hybrid Movie Recommendation System](https://drive.google.com/file/d/1C8B3BXJmTq0v69G6un4tLvsReSf2CGpl/view?usp=sharing)
-- **Computer Architecture:** [Term Paper on Cognitive Computing: The Future of Augmented Intelligence](https://drive.google.com/file/d/1f3cNr2ROE5U25yAtin97X5KfZH9LTbfu/view?usp=sharing)
-- **Cryptography and Network Security:** [Term Paper on Assessing the Efficacy of Lightweight Encryption Methods for Protecting Medical Imaging Data in Internet of Medical Things (IOMT) Environment](https://drive.google.com/file/d/1nA-AgP17aMb8K94vR0iastIB8Jm0iJkH/view?usp=sharing)
 
 ---
 
