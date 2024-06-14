@@ -88,7 +88,7 @@
 
   ---
   
-### 👩🏻‍💻💼📋 View My Projects
+### 👩🏻‍💻 View My Projects
 
 <table>
   <tr>
