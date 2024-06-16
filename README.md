@@ -121,6 +121,10 @@
 ### Web Application Development
 - [Smart TextBook Exchange Web Application](https://github.com/Anou26/Smart-TextBook-Exchange-Web-App)
 
+### Currently Building 
+- [Real-Time Event Processing System](https://github.com/Anou26/Real-Time-Event-Processing-System) 
+- [Green Energy Optimization System](https://github.com/Anou26/Green-Energy-Optimization-System)
+  
     </td>
   </tr>
 </table>
