@@ -106,11 +106,12 @@
     </td>
     <td valign="top" width="34%">
 
-### AI and NLP
+### AI, NLP, LLMs
 - [WellBot: AI Support Healthcare and Mental Health ChatBot](https://github.com/Riya-JK/WellBot)
 - [COVID Tweet-Sentiment (Dual Model Analysis of the Pandemic)](https://github.com/Anou26/COVID-Tweet-Sentiment-Dual-Model-Analysis-of-the-Pandemic)
 - [COVID Tweet-Sentiment (Multiclass Classification Models Empirical Analysis)](https://github.com/Anou26/Empirical-Study-and-Comparison-Project)
-- [Basic ChatBot Development](https://github.com/Anou26/Projects/blob/main/Chatbot.ipynb)
+- [Basic ChatBot](https://github.com/Anou26/Projects/blob/main/Chatbot.ipynb)
+- [Web Searching AI Assistant](https://github.com/Anou26/ai-assistant-web-searching)
 
     </td>
     <td valign="top" width="33%">
