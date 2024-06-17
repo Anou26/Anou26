@@ -146,7 +146,7 @@
 - Currently pursuing the course **IBM Data Engineering** on Coursera.
 - Recently passed a certification on DevOps offered by PagerDuty : [PagerDuty DevOps Professional Certified](https://www.linkedin.com/learning/certificates/4737ec67c2a733ac9232b5e3d0697cc0dc48bbc900954b1de0f238642c627902?u=76816226)
 - My last course at Syracuse University was CIS 600: Applied Natural Language Processing where I learned how to enable computers to understand, interpret, and respond to human languages in a meaningful and useful way.
-- Currently interested in **LLMs and Generative-AI**.
+- Currently exploring **LLMs and Generative-AI**.
 
 ---
 
