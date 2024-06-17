@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
-  <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" alt="Apache Airflow">
   <img src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="PySpark">
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
@@ -168,8 +167,7 @@
 
 ### ⚡ Fun Fact
 
-- I'm a multi-passionate individual with a love for **Literature, Art, Financial Markets, and International Politics/Relations**.
-- *Imagine a day starting with Shakespeare, diving into stock charts, and ending with a debate on global affairs!*
+- I'm a multi-passionate individual with a love for **Literature, Art, Financial Markets, and International Politics/Relations**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anou26&show_icons=true&locale=en&layout=compact" alt="Anou26" /></p>
