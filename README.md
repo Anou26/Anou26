@@ -163,7 +163,6 @@
 ### 📫 Contact
 
 - Feel free to reach me at: **amergoju@syr.edu** or **anoushkamergoju@gmail.com**
-- Connect on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anoushkamergoju/)
 
 ---
 
