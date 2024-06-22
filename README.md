@@ -118,7 +118,7 @@
 ### Cryptography
 - [Lightweight Encryption Methods for Protecting Medical Imaging Data in IoMT](https://github.com/Anou26/Lightweight-Encryption-Crypto-Project)
 
-### Web Application Development
+### Full-Stack Development
 - [Smart TextBook Exchange Web Application](https://github.com/Anou26/Smart-TextBook-Exchange-Web-App-)
 
 ### Currently Building 
