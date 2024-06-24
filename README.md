@@ -170,7 +170,7 @@
 - I'm a multi-passionate individual with a love for **Literature, Art, Financial Markets, and International Politics/Relations**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anou26&show_icons=true&locale=en&layout=compact" alt="Anou26" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anou26&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Anou26" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anou26&show_icons=true&locale=en" alt="Anou26" /></p>
 
