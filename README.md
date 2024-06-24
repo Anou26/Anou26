@@ -112,19 +112,21 @@
 - [Basic ChatBot](https://github.com/Anou26/Projects/blob/main/Chatbot.ipynb)
 - [Web Searching AI Assistant](https://github.com/Anou26/ai-assistant-web-searching)
 
-    </td>
-    <td valign="top" width="33%">
-
 ### Cryptography
 - [Lightweight Encryption Methods for Protecting Medical Imaging Data in IoMT](https://github.com/Anou26/Lightweight-Encryption-Crypto-Project)
 
 ### Full-Stack Development
 - [Smart TextBook Exchange Web Application](https://github.com/Anou26/Smart-TextBook-Exchange-Web-App-)
 
+   </td>
+    <td valign="top" width="33%">
+
 ### Currently Building 
 - [Real-Time Event Processing System using Azure Event Hubs and Apache Spark](https://github.com/Anou26/Real-Time-Event-Processing-System) 
 - [My Service Pal: A MERN based App Offering Professional Services](https://github.com/Anou26/My-Service-Pal)
 - [Anoushka PortFolio: My personal full-stack website](https://github.com/Anou26/Anoushka-Portfolio)
+
+- [MY 30 DAYS OF LEETCODE CHALLENGE!](https://github.com/Anou26/30-Day-of-Code)
   
     </td>
   </tr>
