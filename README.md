@@ -122,11 +122,11 @@
     <td valign="top" width="33%">
 
 ### Currently Building 🎯👩‍💻
-- [Real-Time Event Processing System using Azure Event Hubs and Apache Spark](https://github.com/Anou26/Real-Time-Event-Processing-System) 
-- [My Service Pal: A MERN based App Offering Professional Services](https://github.com/Anou26/My-Service-Pal)
-- [Anoushka PortFolio: My personal full-stack website](https://github.com/Anou26/Anoushka-Portfolio)
+- **Data Engineering:** [Real-Time Event Processing System using Azure Event Hubs and Apache Spark](https://github.com/Anou26/Real-Time-Event-Processing-System) 
+- **Full-Stack:** [My Service Pal: A MERN based App Offering Professional Services](https://github.com/Anou26/My-Service-Pal) 
+- **Full-Stack:** [Anoushka PortFolio: My personal full-stack website](https://github.com/Anou26/Anoushka-Portfolio) 
 
-- [MY 30 DAYS OF LEETCODE CHALLENGE!](https://github.com/Anou26/30-Day-of-Code)
+- [MY 30 DAYS OF LEETCODE CHALLENGE!](https://github.com/Anou26/30-Day-of-Code) 
   
     </td>
   </tr>
