@@ -122,8 +122,9 @@
 - [Smart TextBook Exchange Web Application](https://github.com/Anou26/Smart-TextBook-Exchange-Web-App-)
 
 ### Currently Building 
-- [Real-Time Event Processing System](https://github.com/Anou26/Real-Time-Event-Processing-System) 
-- [Green Energy Optimization System](https://github.com/Anou26/Green-Energy-Optimization-System)
+- [Real-Time Event Processing System using Azure Event Hubs and Apache Spark](https://github.com/Anou26/Real-Time-Event-Processing-System) 
+- [My Service Pal: A MERN based App Offering Professional Services](https://github.com/Anou26/My-Service-Pal)
+- [Anoushka PortFolio: My personal full-stack website](https://github.com/Anou26/Anoushka-Portfolio)
   
     </td>
   </tr>
