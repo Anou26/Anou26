@@ -101,6 +101,9 @@
 ### Deep Learning
 - [Heart Attack Detection using Sequential Model](https://github.com/Anou26/Projects/blob/main/Heart_Attack_detection.ipynb)
 - [COVID-19 Stock Price Forecasting using LSTM and ARIMA](https://github.com/Anou26/Mini-Project)
+
+### Cryptography
+- [Lightweight Encryption Methods for Protecting Medical Imaging Data in IoMT](https://github.com/Anou26/Lightweight-Encryption-Crypto-Project)
   
     </td>
     <td valign="top" width="34%">
@@ -112,16 +115,13 @@
 - [Basic ChatBot](https://github.com/Anou26/Projects/blob/main/Chatbot.ipynb)
 - [Web Searching AI Assistant](https://github.com/Anou26/ai-assistant-web-searching)
 
-### Cryptography
-- [Lightweight Encryption Methods for Protecting Medical Imaging Data in IoMT](https://github.com/Anou26/Lightweight-Encryption-Crypto-Project)
-
 ### Full-Stack Development
 - [Smart TextBook Exchange Web Application](https://github.com/Anou26/Smart-TextBook-Exchange-Web-App-)
 
    </td>
     <td valign="top" width="33%">
 
-### Currently Building 
+### Currently Building 🎯👩‍💻
 - [Real-Time Event Processing System using Azure Event Hubs and Apache Spark](https://github.com/Anou26/Real-Time-Event-Processing-System) 
 - [My Service Pal: A MERN based App Offering Professional Services](https://github.com/Anou26/My-Service-Pal)
 - [Anoushka PortFolio: My personal full-stack website](https://github.com/Anou26/Anoushka-Portfolio)
