@@ -118,6 +118,9 @@
 ### Full-Stack Development
 - [Smart TextBook Exchange Web Application](https://github.com/Anou26/Smart-TextBook-Exchange-Web-App-)
 
+### Web-Scraping and Automation
+- [LinkedIn Easy Apply Bot](https://github.com/Anou26/LinkedIn-Easy-Apply-)
+
    </td>
     <td valign="top" width="33%">
 
