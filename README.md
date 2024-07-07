@@ -116,8 +116,9 @@
 - [Web Searching AI Assistant](https://github.com/Anou26/ai-assistant-web-searching)
 
 ### Web Application Development
+- [My Personal Website](https://github.com/Anou26/My-Website)
 - [Smart TextBook Exchange Web Application](https://github.com/Anou26/Smart-TextBook-Exchange-Web-App-)
-- - **My Website:** [Personal PortFolio](https://github.com/Anou26/My-PortFolio)
+
 
 ### Web-Scraping and Automation
 - [JobScout - Job Scraper](https://github.com/Anou26/JobScout)
