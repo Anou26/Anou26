@@ -115,8 +115,9 @@
 - [Basic ChatBot](https://github.com/Anou26/Projects/blob/main/Chatbot.ipynb)
 - [Web Searching AI Assistant](https://github.com/Anou26/ai-assistant-web-searching)
 
-### Full-Stack Development
+### Web Application Development
 - [Smart TextBook Exchange Web Application](https://github.com/Anou26/Smart-TextBook-Exchange-Web-App-)
+- - **My Website:** [Personal PortFolio](https://github.com/Anou26/My-PortFolio)
 
 ### Web-Scraping and Automation
 - [JobScout - Job Scraper](https://github.com/Anou26/JobScout)
@@ -127,7 +128,6 @@
 ### Currently Building 🎯👩‍💻
 - **Data Engineering:** [Real-Time Event Processing System using Azure Event Hubs and Apache Spark](https://github.com/Anou26/Real-Time-Event-Processing-System) 
 - **Full-Stack:** [My Service Pal: A MERN based App Offering Professional Services](https://github.com/Anou26/My-Service-Pal)
-- **My Website:** [Personal PortFolio](https://github.com/Anou26/My-PortFolio)
 
 - [MY 30 DAYS OF LEETCODE CHALLENGE!](https://github.com/Anou26/30-Day-of-Code) 
   
