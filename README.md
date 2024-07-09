@@ -119,11 +119,13 @@
 - [My Personal Website](https://github.com/Anou26/My-Website)
 - [Smart TextBook Exchange Web Application](https://github.com/Anou26/Smart-TextBook-Exchange-Web-App-)
 
+### Data Engineering
+- [Real-Time Event Processing System using Azure Event Hubs and Apache Spark](https://github.com/Anou26/Real-Time-Event-Processing-System)
+
    </td>
     <td valign="top" width="33%">
 
 ### Currently Building 🎯👩‍💻
-- **Data Engineering:** [Real-Time Event Processing System using Azure Event Hubs and Apache Spark](https://github.com/Anou26/Real-Time-Event-Processing-System) 
 - **Full-Stack:** [My Service Pal: A MERN based App Offering Professional Services](https://github.com/Anou26/My-Service-Pal)
 - **Web-Scraping and Automation** [JobScout - Job Scraper](https://github.com/Anou26/JobScout)
 
