@@ -7,7 +7,7 @@
 </h1>
 
 
-## <p align ="center"> Operations Research Analyst | Data Analytics and Data Engineering Specialist </p>
+## <p align ="center"> Machine Learning Engineer | Operations Research Analyst | Data and Automation Specialist </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anou26&label=Profile%20views&color=0e75b6&style=flat" alt="Anou26" />
   <a href="https://www.linkedin.com/in/anoushkamergoju/">
