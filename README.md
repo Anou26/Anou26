@@ -6,8 +6,8 @@
   <img src="https://github.com/Anou26/Anou26/raw/main/ezgif.com-crop.gif" alt="Animated Hello" width="200" height="200" style="display:inline;">
 </h1>
 
-
 ## <p align ="center"> Machine Learning Engineer | Operations Research Analyst | Data and Automation Specialist </p>
+### <p align ="center"> Also a big-time Coffee Aficionado ☕ </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anou26&label=Profile%20views&color=0e75b6&style=flat" alt="Anou26" />
   <a href="https://www.linkedin.com/in/anoushkamergoju/">
@@ -173,7 +173,14 @@
 
 ### ⚡ Fun Fact
 
-- I'm a multi-passionate individual with a love for **Literature, Art, Financial Markets, and International Politics/Relations**
+- I'm a multi-passionate individual with a love for **Literature, Art, Financial Markets, International Politics/Relations and a big-time Coffee-aficionado!**
+
+### ☕ Random Coffee Fact
+
+<!--START_COFFEE_FACT-->
+Loading...
+<!--END_COFFEE_FACT-->
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anou26&show_icons=true&locale=en&layout=compact&langs_count=100" alt="Anou26" /></p>
 
