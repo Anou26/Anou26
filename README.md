@@ -25,9 +25,6 @@
   <a href="https://coderspacket.com/contributor/Anoushka">
     <img src="https://img.shields.io/badge/-CodersPacket-1E90FF?style=flat-square&logo=CodersPacket&logoColor=white" alt="CodersPacket Badge">
   </a>
-  <a href="https://www.goodreads.com/user/show/104686816-anoushka-mergoju">
-    <img src="https://img.shields.io/badge/-GoodReads-372213?style=flat-square&logo=Goodreads&logoColor=white" alt="GoodReads Badge">
-  </a>
   <img src="https://img.shields.io/badge/Pronouns-She%2FHer-blue" alt="pronouns">
 </p>
 
@@ -188,7 +185,10 @@
 ### ⚡ Fun Facts About Me!
 
 - I'm a multi-passionate individual with a love for **Literature, Art, Financial Markets, International Politics/Relations and a big-time Coffee-aficionado!**
-- I'm currently reading "Welcome to the Hyunam-Dong Bookshop" by Hwang Bo-Reum and "The Republic" by Plato. View my current read: [GoodReads Profile](https://www.goodreads.com/user/show/104686816-anoushka-mergoju)
+- I'm currently reading "Welcome to the Hyunam-Dong Bookshop" by Hwang Bo-Reum and "The Republic" by Plato. View my current read on GoodReads:
+  <a href="https://www.goodreads.com/user/show/104686816-anoushka-mergoju">
+    <img src="https://img.shields.io/badge/-GoodReads-372213?style=flat-square&logo=Goodreads&logoColor=white" alt="GoodReads Badge">
+  </a>
 
 ---
 
