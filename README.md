@@ -25,11 +25,10 @@
   <img src="https://img.shields.io/badge/Pronouns-She%2FHer-blue" alt="pronouns">
 </p>
 
-
+---
 ### 🚀 Career Aspirations
 
-- **Graduated in May 2024**; actively seeking **early-career or new graduate opportunities**.
-- Interested in roles related to **Data and Decision Science, Machine Learning, Data Engineering**, and **Software Engineering**.
+ **Graduated in May 2024**; actively seeking **early-career or new graduate opportunities** in **Data and Decision Science, Machine Learning, Data Engineering**, and **Software Engineering**.
 
 ---
 ### 🛠️ My Technical Arsenal
@@ -166,6 +165,8 @@
 
 - Looking to collaborate on **Data Science and Data Engineering projects**, Hackathons, and Coding Contests.
 
+---
+
 ### 💬 Expertise
 
 - Databases, Data Analytics, Big Data, NLP, ML, Data Structures and Algorithms, Programming languages like Python, Java, R, and SQL
@@ -181,8 +182,9 @@
 ### ⚡ Fun Facts About Me!
 
 - I'm a multi-passionate individual with a love for **Literature, Art, Financial Markets, International Politics/Relations and a big-time Coffee-aficionado!**
-- I'm currently reading "Welcome to the Hyunam-Dong Bookshop" by Hwang Bo-Reum. View my current read: [GoodReads Profile](https://www.goodreads.com/user/show/104686816-anoushka-mergoju)
+- I'm currently reading "Welcome to the Hyunam-Dong Bookshop" by Hwang Bo-Reum and "The Republic" by Plato. View my current read: [GoodReads Profile](https://www.goodreads.com/user/show/104686816-anoushka-mergoju)
 
+---
 
 ### ☕ Random Coffee Fact
 
@@ -190,6 +192,7 @@
 Loading...
 <!--END_COFFEE_FACT-->
 
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anou26&show_icons=true&locale=en&layout=compact&langs_count=100" alt="Anou26" /></p>
 
