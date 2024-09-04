@@ -6,8 +6,12 @@
   <img src="https://github.com/Anou26/Anou26/raw/main/ezgif.com-crop.gif" alt="Animated Hello" width="200" height="200" style="display:inline;">
 </h1>
 
-## <p align ="center"> Machine Learning Engineer | Operations Research Analyst | Data and Automation Specialist </p>
-### <p align ="center"> I'm also a big-time Coffee Aficionado ☕ </p>
+## <p align ="center"> Machine Learning Engineer | Operations Research Analyst | Data and Automation Specialist | Big-Time Coffee Aficionado ☕ </p>
+
+---
+
+### 🔗 View My Links
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anou26&label=Profile%20views&color=0e75b6&style=flat" alt="Anou26" />
     <a href="https://anou.vercel.app/">
@@ -25,15 +29,20 @@
   <a href="https://coderspacket.com/contributor/Anoushka">
     <img src="https://img.shields.io/badge/-CodersPacket-1E90FF?style=flat-square&logo=CodersPacket&logoColor=white" alt="CodersPacket Badge">
   </a>
+    <a href="https://www.goodreads.com/user/show/104686816-anoushka-mergoju">
+    <img src="https://img.shields.io/badge/-GoodReads-372213?style=flat-square&logo=Goodreads&logoColor=white" alt="GoodReads Badge">
+  </a>
   <img src="https://img.shields.io/badge/Pronouns-She%2FHer-blue" alt="pronouns">
 </p>
 
 ---
+
 ### 🚀 Career Aspirations
 
  **Graduated in May 2024**; actively seeking **early-career or new graduate opportunities** in **Data and Decision Science, Machine Learning, Data Engineering**, and **Software Engineering**.
 
 ---
+
 ### 🛠️ My Technical Arsenal
 
 <p align="center">
@@ -185,10 +194,7 @@
 ### ⚡ Fun Facts About Me!
 
 - I'm a multi-passionate individual with a love for **Literature, Art, Financial Markets, International Politics/Relations and a big-time Coffee-aficionado!**
-- I'm currently reading "Welcome to the Hyunam-Dong Bookshop" by Hwang Bo-Reum and "The Republic" by Plato. View my current read on GoodReads:
-  <a href="https://www.goodreads.com/user/show/104686816-anoushka-mergoju">
-    <img src="https://img.shields.io/badge/-GoodReads-372213?style=flat-square&logo=Goodreads&logoColor=white" alt="GoodReads Badge">
-  </a>
+- I'm currently reading "Welcome to the Hyunam-Dong Bookshop" by Hwang Bo-Reum and "The Republic" by Plato. View my current read on [GoodReads:](https://www.goodreads.com/user/show/104686816-anoushka-mergoju) 
 
 ---
 
