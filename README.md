@@ -94,7 +94,7 @@
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
     
-🚀 **I'm always excited to apply my diverse skill set to solve real-world problems and contribute to innovative projects!**
+**and many more!**
 
   ---
   
