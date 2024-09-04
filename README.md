@@ -7,7 +7,7 @@
 </h1>
 
 ## <p align ="center"> Machine Learning Engineer | Operations Research Analyst | Data and Automation Specialist </p>
-### <p align ="center"> Also a big-time Coffee Aficionado ☕ </p>
+### <p align ="center"> I'm also a big-time Coffee Aficionado ☕ </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anou26&label=Profile%20views&color=0e75b6&style=flat" alt="Anou26" />
   <a href="https://www.linkedin.com/in/anoushkamergoju/">
@@ -178,10 +178,11 @@
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Facts About Me!
 
 - I'm a multi-passionate individual with a love for **Literature, Art, Financial Markets, International Politics/Relations and a big-time Coffee-aficionado!**
-- I read books as well! View my latest read: [GoodReads Profile](https://www.goodreads.com/user/show/104686816-anoushka-mergoju)
+- I'm currently reading "Welcome to the Hyunam-Dong Bookshop" by Hwang Bo-Reum. View my current read: [GoodReads Profile](https://www.goodreads.com/user/show/104686816-anoushka-mergoju)
+
 
 ### ☕ Random Coffee Fact
 
