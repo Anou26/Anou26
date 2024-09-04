@@ -125,11 +125,15 @@
    </td>
     <td valign="top" width="33%">
 
+### LeetCode Practice
+- **30 Days of LeetCode Topics (June-July 2024)** [LeetCode Topics](https://github.com/Anou26/30-Day-of-Code)
+- **30 Days of LeetCode Solutions (June-July 2024)** [LeetCode Solutions](https://github.com/Anou26/LeetCode-Coding)
+
 ### Currently Building 🎯👩‍💻
 - **Full-Stack:** [My Service Pal: A MERN based App Offering Professional Services](https://github.com/Anou26/My-Service-Pal)
 - **Web-Scraping and Automation** [JobScout - Job Scraper](https://github.com/Anou26/JobScout)
+- **30 Days of Interview Prep** [LeetCode Pandas, DSA and SQL](https://github.com/Anou26/30-Days-Interview-Prep)
 
-- [MY 30 DAYS OF LEETCODE CHALLENGE!](https://github.com/Anou26/30-Day-of-Code) 
   
     </td>
   </tr>
