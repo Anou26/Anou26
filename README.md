@@ -10,6 +10,9 @@
 ### <p align ="center"> I'm also a big-time Coffee Aficionado ☕ </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anou26&label=Profile%20views&color=0e75b6&style=flat" alt="Anou26" />
+    <a href="https://anou.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Vercel&logoColor=white" alt="Portfolio Badge">
+  </a>
   <a href="https://www.linkedin.com/in/anoushkamergoju/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
@@ -21,6 +24,9 @@
   </a>
   <a href="https://coderspacket.com/contributor/Anoushka">
     <img src="https://img.shields.io/badge/-CodersPacket-1E90FF?style=flat-square&logo=CodersPacket&logoColor=white" alt="CodersPacket Badge">
+  </a>
+  <a href="https://www.goodreads.com/user/show/104686816-anoushka-mergoju">
+    <img src="https://img.shields.io/badge/-GoodReads-372213?style=flat-square&logo=Goodreads&logoColor=white" alt="GoodReads Badge">
   </a>
   <img src="https://img.shields.io/badge/Pronouns-She%2FHer-blue" alt="pronouns">
 </p>
