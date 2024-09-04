@@ -150,12 +150,15 @@
 
 ---
 
-### 🌱 Current Studies
+### 🌱 Current Studies and the My past 3 months (June-July-August Edition)
 
-- Currently pursuing the course **IBM Data Engineering** on Coursera.
-- Recently passed a certification on DevOps offered by PagerDuty : [PagerDuty DevOps Professional Certified](https://www.linkedin.com/learning/certificates/4737ec67c2a733ac9232b5e3d0697cc0dc48bbc900954b1de0f238642c627902?u=76816226)
-- My last course at Syracuse University was CIS 600: Applied Natural Language Processing where I learned how to enable computers to understand, interpret, and respond to human languages in a meaningful and useful way.
-- Currently exploring **LLMs and Generative-AI**.
+- Currently pursuing the course **The Complete Software Testing BootCamp** on Udemy where I'm building my expertise in Software Testing using JUnit, TestNG, Selenium, API Testing using Postman, Agile Testing, Test Automation and other Automation techniques.
+- I recently also passed three Azure professional specialization certifications on Coursera:
+  (i) [Azure AI Fundamentals](https://www.coursera.org/account/accomplishments/specialization/Z2PHM2JPET7Y)
+  (ii) [Azure Data Engineering Associate](https://www.coursera.org/account/accomplishments/professional-cert/U2UE2APDBY2X)
+  (iii) [Azure Data Scientist Associate](https://www.coursera.org/account/accomplishments/professional-cert/ZBAT9GH4U6HB)
+- I built my Portfolio Website as well using React, Next.js, TailwindCSS, HTML, Java and deployed it onto Vercel, View it here: [Website](https://anou.vercel.app/)
+- I also completed a 30-Day LeetCode Challenge where I worked on DSA problems using Python and also won the 50 SQL badge.
 
 ---
 
@@ -178,6 +181,7 @@
 ### ⚡ Fun Fact
 
 - I'm a multi-passionate individual with a love for **Literature, Art, Financial Markets, International Politics/Relations and a big-time Coffee-aficionado!**
+- I read books as well! View my latest read: [GoodReads Profile](https://www.goodreads.com/user/show/104686816-anoushka-mergoju)
 
 ### ☕ Random Coffee Fact
 
