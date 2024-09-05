@@ -132,9 +132,11 @@
 
 ### Data Engineering
 - [Real-Time Event Processing System using Azure Event Hubs and Apache Spark](https://github.com/Anou26/Real-Time-Event-Processing-System)
-
    </td>
     <td valign="top" width="33%">
+
+### Web-Scraping and Automation
+- [Hacker-News-Sorting-Validation](https://github.com/Anou26/Hacker-News-Sorting-Validation)
 
 ### LeetCode Practice
 - **30 Days of LeetCode Topics (June-July 2024)** [LeetCode Topics](https://github.com/Anou26/30-Day-of-Code)
