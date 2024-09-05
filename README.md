@@ -6,7 +6,7 @@
   <img src="https://github.com/Anou26/Anou26/raw/main/ezgif.com-crop.gif" alt="Animated Hello" width="200" height="200" style="display:inline;">
 </h1>
 
-## <p align ="center"> Machine Learning Engineer | Operations Research Analyst | Data and Automation | Big-Time Coffee Aficionado ☕ </p>
+## <p align ="center"> Machine Learning Engineer | Operations Research Analyst | Data and Automation Specialist | Big-Time Coffee Aficionado ☕ </p>
 
 ---
 
