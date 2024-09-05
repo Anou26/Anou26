@@ -135,7 +135,7 @@
    </td>
     <td valign="top" width="33%">
 
-### Web-Scraping and Automation
+### Web-Scraping & Automation
 - [Hacker-News-Sorting-Validation](https://github.com/Anou26/Hacker-News-Sorting-Validation)
 
 ### LeetCode Practice
