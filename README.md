@@ -170,7 +170,8 @@
   (i) [Azure AI Fundamentals](https://www.coursera.org/account/accomplishments/specialization/Z2PHM2JPET7Y)
   (ii) [Azure Data Engineering Associate](https://www.coursera.org/account/accomplishments/professional-cert/U2UE2APDBY2X)
   (iii) [Azure Data Scientist Associate](https://www.coursera.org/account/accomplishments/professional-cert/ZBAT9GH4U6HB)
-- Built my Portfolio Website as well using React, Next.js, TailwindCSS, HTML, Java and deployed it onto Vercel, View it here: [Website](https://anou.vercel.app/)
+- **Full-Stack Website** Built my Portfolio Website as well using React, Next.js, TailwindCSS, HTML, Java and deployed it onto Vercel, View it here: [Website (https://anou.vercel.app/)
+- **Playwright Automated Script** Learned how to write an automation script using **Playwright** and JavaScript. New Technology Unlocked! ✅ View it here: [Hacker news sorting validation](https://github.com/Anou26/Hacker-News-Sorting-Validation)
 - Completed a 30-Day LeetCode Challenge where I worked on DSA problems using Python and also won the 50 SQL badge.
 
 ---
