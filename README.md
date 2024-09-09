@@ -1,10 +1,10 @@
 <h1 align="center">
   Hi there! 👋 I'm Anoushka Mergoju!
   <br>
-  <img src="https://github.com/Anou26/Anou26/raw/main/typing.gif" alt="Typing SVG">
   <br>
-  <img src="https://github.com/Anou26/Anou26/raw/main/ezgif.com-crop.gif" alt="Animated Hello" width="200" height="200" style="display:inline;">
+  <img src="https://github.com/Anou26/Anou26/blob/main/for-github-use.gif" alt="For GitHub Use GIF" width="200" height="200">
 </h1>
+
 
 ## <p align ="center"> Machine Learning Engineer | Operations Research Analyst | Data and Automation Specialist | Big-Time Coffee Aficionado ☕ </p>
 
