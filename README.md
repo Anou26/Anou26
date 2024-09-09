@@ -1,9 +1,19 @@
 <h1 align="center">
-  Hi there! 👋 I'm Anoushka Mergoju!
-  <br>
-  <br>
-  <img src="https://github.com/Anou26/Anou26/blob/main/for-github-use.gif" alt="For GitHub Use GIF" width="200" height="200">
+  <table style="width:100%; text-align:center;">
+    <tr>
+      <td style="text-align:right;">
+        <span style="font-size: 28px;">Hi there! 👋 I'm Anoushka Mergoju!</span>
+      </td>
+      <td style="text-align:left;">
+        <img src="https://github.com/Anou26/Anou26/blob/main/coding-girl.gif" alt="Coding Girl GIF" width="180" height="180">
+      </td>
+    </tr>
+  </table>
 </h1>
+
+
+
+
 
 
 ## <p align ="center"> Machine Learning Engineer | Operations Research Analyst | Data and Automation Specialist | Big-Time Coffee Aficionado ☕ </p>
