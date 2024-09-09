@@ -1,5 +1,5 @@
 <h1 align="center">
-  <table style="width:100%; text-align:center;">
+  <table align="center">
     <tr>
       <td style="text-align:center;">
         <span style="font-size: 28px;">Hi there! 👋 I'm Anoushka Mergoju!</span>
@@ -10,10 +10,6 @@
     </tr>
   </table>
 </h1>
-
-
-
-
 
 
 ## <p align ="center"> Machine Learning Engineer | Operations Research Analyst | Data and Automation Specialist | Big-Time Coffee Aficionado ☕ </p>
