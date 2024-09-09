@@ -226,5 +226,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anou26&" alt="Anou26" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
