@@ -207,17 +207,26 @@
 ### ⚡ Fun Facts About Me!
 
 - I'm a multi-passionate individual with a love for **Literature, Art, Financial Markets, International Politics/Relations and a big-time Coffee-aficionado!**
-- I'm currently reading "Welcome to the Hyunam-Dong Bookshop" by Hwang Bo-Reum and "The Republic" by Plato. View my current read on [GoodReads:](https://www.goodreads.com/user/show/104686816-anoushka-mergoju) 
+- I'm currently reading "Welcome to the Hyunam-Dong Bookshop" by Hwang Bo-Reum and "The Republic" by Plato. View my current read on [GoodReads](https://www.goodreads.com/user/show/104686816-anoushka-mergoju) 
 
 ---
 
 ### ☕ Random Coffee Fact
 
-<!--START_COFFEE_FACT-->
-Loading...
-<!--END_COFFEE_FACT-->
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Anou26/Anou26/blob/main/coffee-morning.gif" alt="Coffee Morning GIF" width="250">
+    </td>
+    <td>
+      <p><strong>Did you know?</strong> The first webcam was created at Cambridge University to monitor a coffee pot. It allowed researchers to avoid wasted trips to an empty coffee pot!</p>
+    </td>
+  </tr>
+</table>
 
 ---
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anou26&show_icons=true&locale=en&layout=compact&langs_count=100" alt="Anou26" /></p>
 
