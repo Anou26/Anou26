@@ -1,11 +1,17 @@
 <h1 align="center">
-  <table align="center">
+  <table style="width:100%; text-align:center;">
     <tr>
-      <td style="text-align:center;">
-        <span style="font-size: 28px;">Hi there! 👋 I'm Anoushka Mergoju!</span>
+      <!-- NUX_Octodex GIF on the left -->
+      <td style="text-align:right;">
+        <img src="https://github.com/Anou26/Anou26/blob/main/NUX_Octodex.gif" alt="NUX Octodex GIF" width="200" height="200">
       </td>
+      <!-- Name in the center -->
       <td style="text-align:center;">
-        <img src="https://github.com/Anou26/Anou26/blob/main/coding-girl.gif" alt="Coding Girl GIF" width="180" height="180">
+        <span style="font-size: 28px;">Hi there! 👋 <br> I'm Anoushka Mergoju!</span>
+      </td>
+      <!-- Coding Girl GIF on the right -->
+      <td style="text-align:left;">
+        <img src="https://github.com/Anou26/Anou26/blob/main/coding-girl.gif" alt="Coding Girl GIF" width="200" height="200">
       </td>
     </tr>
   </table>
