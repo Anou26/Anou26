@@ -198,7 +198,7 @@
 
 ### ⚡ Fun Facts About Me!
 
-- I'm a multi-passionate individual with a love for **Literature, Art, Financial Markets, International Politics/Relations and a big-time Coffee-aficionado!**
+- I'm a multi-passionate individual with a love for **Literature, Art, Economics and International Politics/Relations!**
 - I'm currently reading "Welcome to the Hyunam-Dong Bookshop" by Hwang Bo-Reum and "The Republic" by Plato. View my current read on [GoodReads](https://www.goodreads.com/user/show/104686816-anoushka-mergoju) 
 
 ---
