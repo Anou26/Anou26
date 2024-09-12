@@ -8,7 +8,7 @@
 
 
 
-## <p align ="center"> Machine Learning | Operations Research Analyst | Data and Automation Specialist | Big-Time Coffee Aficionado ☕ </p>
+## <p align ="center"> Machine Learning | Operations Research Analyst | Data & Automation Specialist | Big-Time Coffee Aficionado ☕ </p>
 
 ---
 
