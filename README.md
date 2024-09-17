@@ -165,7 +165,7 @@
 
 ---
 
-### 🌱 Current Studies and my past 3 months summarised (June-July-August 2024 Edition)
+### 🌱 Current Studies (September 2024) and my past 3 months summarised (June-July-August 2024 Edition)
 
 - Currently pursuing the courses:
   (i) **The Complete Software Testing BootCamp** on Udemy where I'm building my expertise in Software Testing using JUnit, TestNG, Selenium, API Testing using Postman, Agile Testing, Test Automation and other Automation techniques
