@@ -165,18 +165,23 @@
 
 ---
 
-### 🌱 Current Studies (September 2024) and my past 3 months summarised (June-July-August 2024 Edition)
+### 🌱 Current Studies (September 2024)  
 
 - Currently pursuing the courses:
   (i) **The Complete Software Testing BootCamp** on Udemy where I'm building my expertise in Software Testing using JUnit, TestNG, Selenium, API Testing using Postman, Agile Testing, Test Automation and other Automation techniques
   (ii) **Career Essentials in GitHub Professional Certificate** offered by GitHub and LinkedIn solely because I have been LOVING version control with Git lately
+-  **Playwright Automated Script**: Learned how to write an automation script using Playwright and JavaScript. New Technology Unlocked! ✅ View it here: [Hacker news sorting validation](https://github.com/Anou26/Hacker-News-Sorting-Validation)
+- Recently won the Introduction to Pandas Badge on LeetCode!
+
+  ---->
+
+### 🌳 My Past 3 Months Summarised (June-July-August 2024 Edition)
 - Passed three Azure professional specialization certifications on Coursera:
   (i) [Azure AI Fundamentals](https://www.coursera.org/account/accomplishments/specialization/Z2PHM2JPET7Y)
   (ii) [Azure Data Engineering Associate](https://www.coursera.org/account/accomplishments/professional-cert/U2UE2APDBY2X)
   (iii) [Azure Data Scientist Associate](https://www.coursera.org/account/accomplishments/professional-cert/ZBAT9GH4U6HB)
 - **Full-Stack Website**: Built my Portfolio Website as well using React, Next.js, TailwindCSS, HTML, JavaScript and deployed it onto Vercel, View it here: [Website (https://anou.vercel.app/)
-- **Playwright Automated Script**: Learned how to write an automation script using Playwright and JavaScript. New Technology Unlocked! ✅ View it here: [Hacker news sorting validation](https://github.com/Anou26/Hacker-News-Sorting-Validation)
-- Completed LeetCode Challenges where I worked on DSA problems using Python and also won the SQL 50 badge and Introduction to Pandas badge.
+- Completed a 30-day LeetCode Challenge where I worked on DSA problems using Python and also won the SQL 50 badge.
 
 ---
 
