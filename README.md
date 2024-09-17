@@ -167,7 +167,9 @@
 
 ### 🌱 Current Studies and my past 3 months summarised (June-July-August 2024 Edition)
 
-- Currently pursuing the course **The Complete Software Testing BootCamp** on Udemy where I'm building my expertise in Software Testing using JUnit, TestNG, Selenium, API Testing using Postman, Agile Testing, Test Automation and other Automation techniques and **Career Essentials in GitHub Professional Certificate** offered by GitHub and LinkedIn solely because I have been LOVING version control with Git lately.
+- Currently pursuing the courses:
+  (i) **The Complete Software Testing BootCamp** on Udemy where I'm building my expertise in Software Testing using JUnit, TestNG, Selenium, API Testing using Postman, Agile Testing, Test Automation and other Automation techniques
+  (ii) **Career Essentials in GitHub Professional Certificate** offered by GitHub and LinkedIn solely because I have been LOVING version control with Git lately
 - Passed three Azure professional specialization certifications on Coursera:
   (i) [Azure AI Fundamentals](https://www.coursera.org/account/accomplishments/specialization/Z2PHM2JPET7Y)
   (ii) [Azure Data Engineering Associate](https://www.coursera.org/account/accomplishments/professional-cert/U2UE2APDBY2X)
