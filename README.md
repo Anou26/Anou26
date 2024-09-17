@@ -167,14 +167,14 @@
 
 ### 🌱 Current Studies and my past 3 months summarised (June-July-August 2024 Edition)
 
-- Currently pursuing the course **The Complete Software Testing BootCamp** on Udemy where I'm building my expertise in Software Testing using JUnit, TestNG, Selenium, API Testing using Postman, Agile Testing, Test Automation and other Automation techniques.
+- Currently pursuing the course **The Complete Software Testing BootCamp** on Udemy where I'm building my expertise in Software Testing using JUnit, TestNG, Selenium, API Testing using Postman, Agile Testing, Test Automation and other Automation techniques and **Career Essentials in GitHub Professional Certificate** offered by GitHub and LinkedIn solely because I have been LOVING version control with Git lately.
 - Passed three Azure professional specialization certifications on Coursera:
   (i) [Azure AI Fundamentals](https://www.coursera.org/account/accomplishments/specialization/Z2PHM2JPET7Y)
   (ii) [Azure Data Engineering Associate](https://www.coursera.org/account/accomplishments/professional-cert/U2UE2APDBY2X)
   (iii) [Azure Data Scientist Associate](https://www.coursera.org/account/accomplishments/professional-cert/ZBAT9GH4U6HB)
 - **Full-Stack Website**: Built my Portfolio Website as well using React, Next.js, TailwindCSS, HTML, JavaScript and deployed it onto Vercel, View it here: [Website (https://anou.vercel.app/)
 - **Playwright Automated Script**: Learned how to write an automation script using Playwright and JavaScript. New Technology Unlocked! ✅ View it here: [Hacker news sorting validation](https://github.com/Anou26/Hacker-News-Sorting-Validation)
-- Completed a 30-Day LeetCode Challenge where I worked on DSA problems using Python and also won the 50 SQL badge.
+- Completed LeetCode Challenges where I worked on DSA problems using Python and also won the SQL 50 badge and Introduction to Pandas badge.
 
 ---
 
