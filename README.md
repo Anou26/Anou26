@@ -206,7 +206,7 @@
 ### ⚡ Fun Facts About Me!
 
 - I'm a multi-passionate individual with a love for **Literature, Art, Economics and International Politics/Relations!**
-- I'm currently reading "Welcome to the Hyunam-Dong Bookshop" by Hwang Bo-Reum and "The Republic" by Plato. View my current read on [GoodReads](https://www.goodreads.com/user/show/104686816-anoushka-mergoju) 
+- I'm currently reading "The Defining Decade" by Meg Jay and "The Republic" by Plato. View my current read on [GoodReads](https://www.goodreads.com/user/show/104686816-anoushka-mergoju) 
 
 ---
 
