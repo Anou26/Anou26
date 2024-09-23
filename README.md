@@ -158,7 +158,7 @@
 
 ### 📝 View my Papers:
 
-- **Business Analytics:** [Case Study on Business Governance using Data Analytics](https://drive.google.com/file/d/1t9cILVsA_rRY8HEWp160nO33YmHicpBX/view?usp=sharing)
+- **Data Analytics and Business Intelligence:** [Case Study on Business Governance using Data Analytics](https://drive.google.com/file/d/1t9cILVsA_rRY8HEWp160nO33YmHicpBX/view?usp=sharing)
 - **Data Science:** [Project Report on Hybrid Movie Recommendation System](https://drive.google.com/file/d/1C8B3BXJmTq0v69G6un4tLvsReSf2CGpl/view?usp=sharing)
 - **Computer Architecture:** [Term Paper on Cognitive Computing: The Future of Augmented Intelligence](https://drive.google.com/file/d/1f3cNr2ROE5U25yAtin97X5KfZH9LTbfu/view?usp=sharing)
 - **Cryptography and Network Security:** [Term Paper on Assessing the Efficacy of Lightweight Encryption Methods for Protecting Medical Imaging Data in Internet of Medical Things (IOMT) Environment](https://drive.google.com/file/d/1nA-AgP17aMb8K94vR0iastIB8Jm0iJkH/view?usp=sharing)
