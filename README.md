@@ -244,9 +244,8 @@
   </p>
 </div>
 <br><br><br>
-<hr/>
 
----
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
