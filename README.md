@@ -235,6 +235,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anou26&" alt="Anou26" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anou26)](https://github.com/Anou26/github-profile-trophy)
+
 ---
 <br/>
 <div align="center">
