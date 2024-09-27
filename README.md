@@ -1,5 +1,7 @@
 <h1 align="center">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   Hi there! 👋 I'm Anoushka Mergoju!
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   <br>
   <img src="https://github.com/Anou26/Anou26/blob/main/coding-girl.gif" alt="Coding Girl GIF" width="180" height="180">
 </h1>
@@ -8,11 +10,11 @@
 
 
 
-## <p align ="center"> Machine Learning | Operations Research Analyst | Data & Automation Specialist | Big-Time Coffee Aficionado ☕ </p>
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Machine Learning | Operations Research Analyst | Data & Automation Specialist | Big-Time Coffee Aficionado ☕ <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
 ---
 
-### 🔗 View My Links
+### <p align ="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> View My Links
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anou26&label=Profile%20views&color=0e75b6&style=flat" alt="Anou26" />
