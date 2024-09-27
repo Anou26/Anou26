@@ -10,7 +10,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Machine Learning | Operations Research Analyst | Data & Automation Specialist | Big-Time Coffee Aficionado ☕ <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Machine Learning | Operations Research Analyst | Data & Automation Specialist <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
 ---
 
