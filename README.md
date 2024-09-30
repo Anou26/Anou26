@@ -38,21 +38,22 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge">
   </a>
 
-  <a href="https://medium.com/@anoushkamergoju" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge">
-  </a>
-
   <a href="https://coderspacket.com/contributor/Anoushka" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/-CodersPacket-1E90FF?style=for-the-badge&logo=CodersPacket&logoColor=white" alt="CodersPacket Badge">
+  </a>
+
+  <a href="https://public.tableau.com/app/profile/anoushka.mergoju/vizzes" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge">
+  </a>
+
+  <a href="https://medium.com/@anoushkamergoju" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge">
   </a>
 
   <a href="https://www.goodreads.com/user/show/104686816-anoushka-mergoju" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/-GoodReads-372213?style=for-the-badge&logo=Goodreads&logoColor=white" alt="GoodReads Badge">
   </a>
 
-  <a href="https://public.tableau.com/app/profile/anoushka.mergoju/vizzes" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge">
-  </a>
 </p>
 
 
