@@ -17,27 +17,39 @@
 ### <p align ="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> View My Links
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anou26&label=Profile%20views&color=0e75b6&style=flat" alt="Anou26" />
-    <a href="https://anou.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Vercel&logoColor=white" alt="Portfolio Badge">
+  <img src="https://komarev.com/ghpvc/?username=Anou26&label=Profile%20views&color=0e75b6&style=flat" alt="Anou26" style="margin: 0 10px;" />
+  
+  <a href="https://anou.vercel.app/" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio Badge">
   </a>
-  <a href="https://www.linkedin.com/in/anoushkamergoju/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+
+  <a href="https://www.linkedin.com/in/anoushkamergoju/" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://leetcode.com/u/AnouMer/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode Badge">
+
+  <a href="https://leetcode.com/u/AnouMer/" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge">
   </a>
-  <a href="https://medium.com/@anoushkamergoju">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white" alt="Medium Badge">
+
+  <a href="https://medium.com/@anoushkamergoju" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge">
   </a>
-  <a href="https://coderspacket.com/contributor/Anoushka">
-    <img src="https://img.shields.io/badge/-CodersPacket-1E90FF?style=flat-square&logo=CodersPacket&logoColor=white" alt="CodersPacket Badge">
+
+  <a href="https://coderspacket.com/contributor/Anoushka" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-CodersPacket-1E90FF?style=for-the-badge&logo=CodersPacket&logoColor=white" alt="CodersPacket Badge">
   </a>
-    <a href="https://www.goodreads.com/user/show/104686816-anoushka-mergoju">
-    <img src="https://img.shields.io/badge/-GoodReads-372213?style=flat-square&logo=Goodreads&logoColor=white" alt="GoodReads Badge">
+
+  <a href="https://www.goodreads.com/user/show/104686816-anoushka-mergoju" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-GoodReads-372213?style=for-the-badge&logo=Goodreads&logoColor=white" alt="GoodReads Badge">
   </a>
-  <img src="https://img.shields.io/badge/Pronouns-She%2FHer-blue" alt="pronouns">
+
+  <a href="https://public.tableau.com/app/profile/anoushka.mergoju/vizzes" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge">
+  </a>
+
+  <img src="https://img.shields.io/badge/Pronouns-She%2FHer-blue?style=for-the-badge" alt="Pronouns Badge" style="margin: 0 10px;" />
 </p>
+
 
 ---
 
