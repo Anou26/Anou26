@@ -58,7 +58,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p> Career Aspirations
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Career Aspirations
 
  **Graduated in May 2024**; actively seeking **early-career or new graduate opportunities** in **Data and Decision Science, Machine Learning, Data Engineering**, and **Software Engineering**.
 
