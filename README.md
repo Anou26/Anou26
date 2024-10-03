@@ -10,12 +10,7 @@
 
 </h1>
 
-
 <h2 align="center">Machine Learning and Software Engineer</h2>
-
-</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
-  <br/>
-</p>
 
 ### <p align ="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> View My Links
 
@@ -61,7 +56,6 @@
 
 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
-  <br/>
 </p>
 
 ### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Career Aspirations
@@ -124,7 +118,6 @@
   and many more!
 
   </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
-  <br/>
 </p>
   
 ### 👩🏻‍💻 View My Projects
@@ -179,7 +172,6 @@
 </table>
 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
-  <br/>
 </p>
 
 ### 📝 View my Papers:
@@ -190,7 +182,6 @@
 - **Cryptography and Network Security:** [Term Paper on Assessing the Efficacy of Lightweight Encryption Methods for Protecting Medical Imaging Data in Internet of Medical Things (IOMT) Environment](https://drive.google.com/file/d/1nA-AgP17aMb8K94vR0iastIB8Jm0iJkH/view?usp=sharing)
 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
-  <br/>
 </p>
 
 ### 🌱 Current Studies (September 2024)  
@@ -212,7 +203,6 @@
 - Completed a 30-day LeetCode Challenge where I worked on DSA problems using Python and also won the SQL 50 badge.
 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
-  <br/>
 </p>
 
 ### 👯 Collaboration Interests
@@ -226,10 +216,6 @@
 ### 📫 Contact
 
 - Feel free to reach me at: **amergoju@syr.edu** or **anoushkamergoju@gmail.com**
-  
-</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
-  <br/>
-</p>
 
 ### ⚡ Fun Facts About Me!
 
@@ -237,7 +223,6 @@
 - I'm currently reading "The Defining Decade" by Meg Jay and "The Republic" by Plato. View my current read on [GoodReads](https://www.goodreads.com/user/show/104686816-anoushka-mergoju) 
 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
-  <br/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anou26&show_icons=true&locale=en&layout=compact&langs_count=100" alt="Anou26" /></p>
@@ -249,7 +234,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anou26&theme=onedark)](https://github.com/Anou26/github-profile-trophy)
 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
-  <br/>
 </p>
 
 <br/>
@@ -264,7 +248,6 @@
 <br><br><br>
 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
-  <br/>
 </p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
