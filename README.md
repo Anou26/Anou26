@@ -1,17 +1,22 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:feac5e,100:e53935&height=170&section=header" />
+</div>
+
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-  Hi there! 👋 I'm Anoushka Mergoju!
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  Hi there! I'm Anoushka Mergoju!
   <br>
-  <img src="https://github.com/Anou26/Anou26/blob/main/coding-girl.gif" alt="Coding Girl GIF" width="180" height="180">
+  <img align="right" alt="Coding" width="250" src="https://github.com/Anou26/Anou26/blob/main/coding-girl.gif">
+
 </h1>
-
-
-
 
 
 <h2 align="center">Machine Learning Engineer | Operations Research Analyst | Data & Automation Specialist</h2>
 
+</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+  <br/>
+</p>
 
 ### <p align ="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> View My Links
 
@@ -56,7 +61,9 @@
 </p>
 
 
----
+</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+  <br/>
+</p>
 
 ### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Career Aspirations
 
@@ -117,7 +124,9 @@
   
   and many more!
 
-  ---
+  </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+  <br/>
+</p>
   
 ### 👩🏻‍💻 View My Projects
 
@@ -170,7 +179,9 @@
   </tr>
 </table>
 
----
+</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+  <br/>
+</p>
 
 ### 📝 View my Papers:
 
@@ -179,7 +190,9 @@
 - **Computer Architecture:** [Term Paper on Cognitive Computing: The Future of Augmented Intelligence](https://drive.google.com/file/d/1f3cNr2ROE5U25yAtin97X5KfZH9LTbfu/view?usp=sharing)
 - **Cryptography and Network Security:** [Term Paper on Assessing the Efficacy of Lightweight Encryption Methods for Protecting Medical Imaging Data in Internet of Medical Things (IOMT) Environment](https://drive.google.com/file/d/1nA-AgP17aMb8K94vR0iastIB8Jm0iJkH/view?usp=sharing)
 
----
+</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+  <br/>
+</p>
 
 ### 🌱 Current Studies (September 2024)  
 
@@ -199,49 +212,34 @@
 - **Full-Stack Website**: Built my Portfolio Website as well using React, Next.js, TailwindCSS, HTML, JavaScript and deployed it onto Vercel, View it here: [Website (https://anou.vercel.app/)
 - Completed a 30-day LeetCode Challenge where I worked on DSA problems using Python and also won the SQL 50 badge.
 
----
+</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+  <br/>
+</p>
 
 ### 👯 Collaboration Interests
 
 - Looking to collaborate on **Data Science and Data Engineering projects**, Hackathons, and Coding Contests.
 
----
-
 ### 💬 Expertise
 
 - Databases, Data Analytics, Big Data, NLP, ML, Data Structures and Algorithms, Programming languages like Python, Java, R, and SQL
 
----
-
 ### 📫 Contact
 
 - Feel free to reach me at: **amergoju@syr.edu** or **anoushkamergoju@gmail.com**
-
----
+  
+</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+  <br/>
+</p>
 
 ### ⚡ Fun Facts About Me!
 
 - I'm a multi-passionate individual with a love for **Literature, Art, Economics and International Politics/Relations!**
 - I'm currently reading "The Defining Decade" by Meg Jay and "The Republic" by Plato. View my current read on [GoodReads](https://www.goodreads.com/user/show/104686816-anoushka-mergoju) 
 
----
-
-### ☕ Random Coffee Fact
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/Anou26/Anou26/blob/main/coffee-morning.gif" alt="Coffee Morning GIF" width="250">
-    </td>
-    <td>
-      <p><strong>Did you know?</strong> The first webcam was created at Cambridge University to monitor a coffee pot. It allowed researchers to avoid wasted trips to an empty coffee pot!</p>
-    </td>
-  </tr>
-</table>
-
----
-
-
+</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+  <br/>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anou26&show_icons=true&locale=en&layout=compact&langs_count=100" alt="Anou26" /></p>
 
@@ -251,7 +249,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anou26&theme=onedark)](https://github.com/Anou26/github-profile-trophy)
 
----
+</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+  <br/>
+</p>
+
 <br/>
 <div align="center">
   <p>
@@ -263,7 +264,9 @@
 </div>
 <br><br><br>
 
-
+</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+  <br/>
+</p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
