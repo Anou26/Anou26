@@ -10,7 +10,7 @@
 
 
 
-<h2 align="center">Machine Learning | Operations Research Analyst | Data & Automation Specialist</h2>
+<h2 align="center">Machine Learning Engineer | Operations Research Analyst | Data & Automation Specialist</h2>
 
 
 ### <p align ="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> View My Links
