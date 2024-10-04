@@ -12,8 +12,6 @@
 <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> Machine Learning and Software Engineer <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center">
 </h3>
 
-### <h4 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> View My Links</p></h4>
-
 <div align="center">
   <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px; justify-content: center;">
 
@@ -63,7 +61,7 @@
 
 ---
 
-### 🛠️ My Technical Arsenal
+### 🛠<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">  My Technical Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
