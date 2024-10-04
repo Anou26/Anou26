@@ -6,11 +6,12 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
   Hi there! I'm Anoushka Mergoju!
-  <img align="right" alt="Coding" width="250" src="https://github.com/Anou26/Anou26/blob/main/coding-girl.gif">
-
 </h1>
 
-<h2 align="center">Machine Learning and Software Engineer</h2>
+<h3 align="center">
+Machine Learning and Software Engineer 
+</h3>
+<img align="right" alt="Coding" width="250" src="https://github.com/Anou26/Anou26/blob/main/coding-girl.gif">
 
 ### <p align ="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> View My Links
 
