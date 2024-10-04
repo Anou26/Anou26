@@ -21,6 +21,10 @@
       <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Vercel&logoColor=white&labelColor=000000" alt="Portfolio Badge" style="border-radius: 15px;">
     </a>
 
+   <a href="mailto:amergoju@syr.edu">
+      <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&labelColor=0078D4" alt="Outlook Badge" style="border-radius: 15px;">
+    </a>
+
   <a href="https://www.linkedin.com/in/anoushkamergoju/">
       <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0e76a8" alt="LinkedIn Badge" style="border-radius: 15px;">
     </a>
