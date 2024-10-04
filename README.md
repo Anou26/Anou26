@@ -50,7 +50,7 @@
   </div>
 </div>
 
-
+<br>
 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 </p>
@@ -58,10 +58,9 @@
 ### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Career Aspirations
 
  **Graduated in May 2024**; actively seeking **early-career or new graduate opportunities** in **Data and Decision Science, Machine Learning, Data Engineering**, and **Software Engineering**.
+<img align="right" alt="Coding" width="250" src="https://github.com/Anou26/Anou26/blob/main/coding-girl.gif">
 
----
-
-### 🛠<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">  My Technical Arsenal
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">  My Technical Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -111,8 +110,6 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white">    
-  
-  and many more!
 
   </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 </p>
