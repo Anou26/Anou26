@@ -12,6 +12,15 @@
 <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> Machine Learning and Software Engineer <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center">
 </h3>
 
+<p align="center">
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=Anou26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Badge" style="margin: 0 10px;" />
+  
+  <!-- Pronouns Badge -->
+  <img src="https://img.shields.io/badge/Pronouns-She%2FHer-0e75b6?style=flat&labelColor=0e75b6&color=blue" alt="Pronouns Badge" style="margin: 0 10px;" />
+</p>
+
+
 <div align="center">
   <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px; justify-content: center;">
 
