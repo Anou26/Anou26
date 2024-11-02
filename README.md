@@ -189,7 +189,7 @@
 
 ### 🌱 Current Studies (November 2024)  
 
-- Pursuing the course, **Career Essentials in GitHub Professional Certificate** offered by GitHub and LinkedIn solely because I have been LOVING version control with Git lately
+- Pursuing the course, **Career Essentials in GitHub Professional Certificate** offered by GitHub and LinkedIn solely because I have been LOVING version control with Git
 - Currently studying from the book, "**Ace the Data Science Interview**" by Kevin Huo and Nick Singh! It's so cool!
 
   ---->
