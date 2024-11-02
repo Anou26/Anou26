@@ -187,16 +187,14 @@
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 </p>
 
-### 🌱 Current Studies (October 2024)  
+### 🌱 Current Studies (November 2024)  
 
-- Currently pursuing the courses:
-  (i) **The Complete Software Testing BootCamp** on Udemy where I'm building my expertise in Software Testing using JUnit, TestNG, Selenium, API Testing using Postman, Agile Testing, Test Automation and other Automation techniques
-  (ii) **Career Essentials in GitHub Professional Certificate** offered by GitHub and LinkedIn solely because I have been LOVING version control with Git lately
-- Currently studying from the book, "**Ace the Data Science Interview**" by Kevin Huo and Nick Singh! It's so cool!
+  (i) Pursuing the course, **Career Essentials in GitHub Professional Certificate** offered by GitHub and LinkedIn solely because I have been LOVING version control with Git lately
+  (ii) Currently studying from the book, "**Ace the Data Science Interview**" by Kevin Huo and Nick Singh! It's so cool!
 
   ---->
 
-### 🌳 My Past 4 Months Summarised (June-July-August-September 2024 Edition)
+### 🌳 My Past 6 Months Summarised (May-0ct 2024 Edition)
 - Passed three Azure professional specialization certifications on Coursera:
   (i) [Azure AI Fundamentals](https://www.coursera.org/account/accomplishments/specialization/Z2PHM2JPET7Y)
   (ii) [Azure Data Engineering Associate](https://www.coursera.org/account/accomplishments/professional-cert/U2UE2APDBY2X)
@@ -204,6 +202,8 @@
 - **Full-Stack Website**: Built my Portfolio Website as well using React, Next.js, TailwindCSS, HTML, JavaScript and deployed it onto Vercel, View it here: [Website (https://anou.vercel.app/)
 - Completed a 30-day LeetCode Challenge where I worked on DSA problems using Python and also won the SQL 50 and Introduction to Pandas Badges on LeetCode!
 - **Playwright Automated Script**: Learned how to write an automation script using Playwright and JavaScript. New Technology Unlocked! ✅ View it here: [Hacker news sorting validation](https://github.com/Anou26/Hacker-News-Sorting-Validation)
+- Finished the course, **The Complete Software Testing BootCamp** on Udemy where I built my expertise in Software Testing using JUnit, TestNG, Selenium, API Testing using Postman, Agile Testing, Test Automation and other Automation techniques
+- Worked on **2 Data Science Projects** with the Northeast Big Data Innovation Hub partnering with Columbia University and NYC Dept of Transportation.
 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 </p>
