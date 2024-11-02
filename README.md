@@ -194,7 +194,7 @@
 
   ---->
 
-### 🌳 My Past 6 Months Summarised (May-0ct 2024 Edition)
+### 🌳 My Past 6 Months Summarised (May-Oct 2024 Edition)
 - Passed three Azure professional specialization certifications on Coursera:
   (i) [Azure AI Fundamentals](https://www.coursera.org/account/accomplishments/specialization/Z2PHM2JPET7Y)
   (ii) [Azure Data Engineering Associate](https://www.coursera.org/account/accomplishments/professional-cert/U2UE2APDBY2X)
