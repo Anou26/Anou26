@@ -170,6 +170,9 @@
 ### LeetCode Practice
 - **30 Days of LeetCode Topics (June-July 2024)** [LeetCode Topics](https://github.com/Anou26/30-Day-of-Code)
 - **30 Days of LeetCode Solutions (June-July 2024)** [LeetCode Solutions](https://github.com/Anou26/LeetCode-Coding)
+- **LeetCode SQL Prep** [LeetCode SQL](https://github.com/Anou26/My-LeetCode-SQL-Prep)
+- **LeetCode Pandas Prep** [LeetCode Pandas](https://github.com/Anou26/My-LeetCode-Pandas-Prep)
+- **LeetCode DSA Prep** [LeetCode DSA](https://github.com/Anou26/LeetCode-Prep)
 
 ### Currently Building 🎯👩‍💻
 - **Full-Stack:** [My Service Pal: A MERN based App Offering Professional Services](https://github.com/Anou26/My-Service-Pal)
