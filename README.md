@@ -48,6 +48,10 @@
       <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white&labelColor=E97627" alt="Tableau Badge" style="border-radius: 15px;">
     </a>
 
+  <a href="https://www.kaggle.com/anoushkamergoju">
+      <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&labelColor=20BEFF" alt="Kaggle Badge" style="border-radius: 15px;">
+    </a>
+
   <a href="https://medium.com/@anoushkamergoju">
       <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white&labelColor=12100E" alt="Medium Badge" style="border-radius: 15px;">
     </a>
