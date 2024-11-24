@@ -198,6 +198,11 @@
 
 - Pursuing the course, **Career Essentials in GitHub Professional Certificate** offered by GitHub and LinkedIn solely because I have been LOVING version control with Git
 - Currently studying from the book, "**Ace the Data Science Interview**" by Kevin Huo and Nick Singh! It's so cool!
+- Passed the following certification exams:
+  (i) [Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaMergoju-1165/596D63424843C062?sharingId=33C06110DF13E9C1)
+  (ii) [Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaMergoju-1165/AA5026AC2A482848?sharingId=33C06110DF13E9C1)
+  (iii) [AWS Certified Data Engineer Associate]
+- Won the 50 Days Badge on LeetCode! 
 
   ---->
 
