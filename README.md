@@ -201,7 +201,7 @@
 - Passed the following certification exams:
   (i) [Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaMergoju-1165/596D63424843C062?sharingId=33C06110DF13E9C1)
   (ii) [Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaMergoju-1165/AA5026AC2A482848?sharingId=33C06110DF13E9C1)
-  (iii) [AWS Certified Data Engineer Associate]
+  (iii) [Azure Certified Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaMergoju-1165/B6A9FDA082692563?sharingId=33C06110DF13E9C1)
 - Won the 50 Days Badge on LeetCode! 
 
   ---->
