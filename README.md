@@ -194,23 +194,18 @@
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 </p>
 
-### 🌱 Current Studies (November 2024)  
+### 🌱 Current Studies (December 2024)  
 
-- Pursuing the course, **Career Essentials in GitHub Professional Certificate** offered by GitHub and LinkedIn solely because I have been LOVING version control with Git
-- Currently studying from the book, "**Ace the Data Science Interview**" by Kevin Huo and Nick Singh! It's so cool!
+- Currently reading the book, "**Ace the Data Science Interview**" by Kevin Huo and Nick Singh! It's so cool!
+- Won the November Daily Coding Badge on LeetCode! 
+
+  ---->
+
+### 🌳 My Past 6 Months Summarised (June-Nov 2024 Edition)
 - Passed the following certification exams:
   (i) [Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaMergoju-1165/596D63424843C062?sharingId=33C06110DF13E9C1)
   (ii) [Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaMergoju-1165/AA5026AC2A482848?sharingId=33C06110DF13E9C1)
   (iii) [Azure Certified Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaMergoju-1165/B6A9FDA082692563?sharingId=33C06110DF13E9C1)
-- Won the 50 Days Badge on LeetCode! 
-
-  ---->
-
-### 🌳 My Past 6 Months Summarised (May-Oct 2024 Edition)
-- Passed three Azure professional specialization certifications on Coursera:
-  (i) [Azure AI Fundamentals](https://www.coursera.org/account/accomplishments/specialization/Z2PHM2JPET7Y)
-  (ii) [Azure Data Engineering Associate](https://www.coursera.org/account/accomplishments/professional-cert/U2UE2APDBY2X)
-  (iii) [Azure Data Scientist Associate](https://www.coursera.org/account/accomplishments/professional-cert/ZBAT9GH4U6HB)
 - **Full-Stack Website**: Built my Portfolio Website as well using React, Next.js, TailwindCSS, HTML, JavaScript and deployed it onto Vercel, View it here: [Website (https://anou.vercel.app/)
 - Completed a 30-day LeetCode Challenge where I worked on DSA problems using Python and also won the SQL 50 and Introduction to Pandas Badges on LeetCode!
 - **Playwright Automated Script**: Learned how to write an automation script using Playwright and JavaScript. New Technology Unlocked! ✅ View it here: [Hacker news sorting validation](https://github.com/Anou26/Hacker-News-Sorting-Validation)
