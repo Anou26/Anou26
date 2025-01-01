@@ -194,14 +194,16 @@
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 </p>
 
-### 🌱 Current Studies (December 2024)  
+### 🌱 Current Studies (January 2025)  
 
-- Currently reading the book, "**Ace the Data Science Interview**" by Kevin Huo and Nick Singh! It's so cool!
-- Won the November Daily Coding Badge on LeetCode! 
+- Currently reading the following books:
+  (i) "**Ace the Data Science Interview**" by Kevin Huo and Nick Singh
+  (ii) "**Cracking the Coding Interview**" by Gayle Laakmann McDowell
+- LeetCoding: View my profile here: https://leetcode.com/u/AnouMer/
 
   ---->
 
-### 🌳 My Past 6 Months Summarised (June-Nov 2024 Edition)
+### 🌳 My Past 6 Months Summarised (July-Dec 2024 Edition)
 - Passed the following certification exams:
   (i) [Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaMergoju-1165/596D63424843C062?sharingId=33C06110DF13E9C1)
   (ii) [Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaMergoju-1165/AA5026AC2A482848?sharingId=33C06110DF13E9C1)
@@ -211,6 +213,7 @@
 - **Playwright Automated Script**: Learned how to write an automation script using Playwright and JavaScript. New Technology Unlocked! ✅ View it here: [Hacker news sorting validation](https://github.com/Anou26/Hacker-News-Sorting-Validation)
 - Finished the course, **The Complete Software Testing BootCamp** on Udemy where I built my expertise in Software Testing using JUnit, TestNG, Selenium, API Testing using Postman, Agile Testing, Test Automation and other Automation techniques
 - Worked on **2 Data Science Projects** with the Northeast Big Data Innovation Hub partnering with Columbia University and NYC Dept of Transportation.
+- Won the November Daily Coding Badge on LeetCode! 
 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 </p>
