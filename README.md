@@ -233,8 +233,8 @@
 ### ⚡ Fun Facts About Me!
 
 - I'm a multi-passionate individual with a love for **Literature, Art, Economics and International Politics/Relations!**
-- I'm currently reading "The Defining Decade" by Meg Jay and "The Republic" by Plato. View my current read on [GoodReads](https://www.goodreads.com/user/show/104686816-anoushka-mergoju) 
-
+- I'm currently reading "The Defining Decade" by Meg Jay.
+- 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 </p>
 
