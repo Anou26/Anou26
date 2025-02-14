@@ -68,9 +68,7 @@
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 </p>
 
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Career Aspirations
-
- **Graduated in May 2024**; actively seeking **early-career or new graduate opportunities** in **Data and Decision Science, Machine Learning, Data Engineering**, and **Software Engineering**.
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> I'm actively seeking early-career/new graduate opportunities in Data and Decision Science, Machine Learning, Data Engineering, and Software Engineering. Feel free to browse my profile to learn more about me! 
 <img align="right" alt="Coding" width="250" src="https://github.com/Anou26/Anou26/blob/main/coding-girl.gif">
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">  My Technical Arsenal
