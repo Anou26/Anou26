@@ -147,7 +147,8 @@
     <td valign="top" width="34%">
 
 ### AI, NLP, LLMs
-- [WellBot: AI Support Healthcare and Mental Health ChatBot](https://github.com/Riya-JK/WellBot)
+- [WellBot: AI Support Healthcare and Mental Health ChatBot](https://github.com/Riya-JK/WellBot) - [scikit-learn, pandas, pyttsx3, matplotlib, google-auth-oauthlib, google-pasta, joblib, keras, matplotlib, nltk, numpy, oauthlib, pandas, pytz, regex, Tensorflow, Plotly, PyTorch]
+- [Gomoku AI](https://github.com/Anou26/Gomoku-AI) - [Python, PyTorch, Scikit-learn, Numpy, CNN, Minimax Algorithm with Custom Heuristic, Matplotlib, Pandas]
 - [COVID Tweet-Sentiment (Dual Model Analysis of the Pandemic)](https://github.com/Anou26/COVID-Tweet-Sentiment-Dual-Model-Analysis-of-the-Pandemic)
 - [COVID Tweet-Sentiment (Multiclass Classification Models Empirical Analysis)](https://github.com/Anou26/Empirical-Study-and-Comparison-Project)
 - [Basic ChatBot](https://github.com/Anou26/Projects/blob/main/Chatbot.ipynb)
