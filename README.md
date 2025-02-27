@@ -132,16 +132,16 @@
     <td valign="top" width="33%">
 
 ### Data Science and Machine Learning
-- [Handwritten Digit Prediction](https://github.com/Anou26/Projects/blob/main/Handwritten_Digit_Prediction.ipynb)
+- [Handwritten Digit Prediction](https://github.com/Anou26/Projects/blob/main/Handwritten_Digit_Prediction.ipynb) - [
 - [Stock Prediction using Facebook Prophet](https://github.com/Anou26/Projects/blob/main/Stocks_using_Facebook_Prophet.ipynb)
 - [Hybrid Movie Recommendation System](https://github.com/Anou26/Projects/blob/main/CIS563_Term_Project.ipynb)
 
 ### Deep Learning
-- [Heart Attack Detection using Sequential Model](https://github.com/Anou26/Projects/blob/main/Heart_Attack_detection.ipynb)
-- [COVID-19 Stock Price Forecasting using LSTM and ARIMA](https://github.com/Anou26/Mini-Project)
+- [Heart Attack Detection using Sequential Model](https://github.com/Anou26/Projects/blob/main/Heart_Attack_detection.ipynb) - [Tensorflow, Keras, Numpy, Pandas, Matplotlib]
+- [COVID-19 Stock Price Forecasting using LSTM and ARIMA](https://github.com/Anou26/Mini-Project) - [LSTM, ARIMA, Matplotlib, Time Series Forecasting, Gradient Descent]
 
 ### Cryptography
-- [Lightweight Encryption Methods for Protecting Medical Imaging Data in IoMT](https://github.com/Anou26/Lightweight-Encryption-Crypto-Project)
+- [Lightweight Encryption Methods for Protecting Medical Imaging Data in IoMT](https://github.com/Anou26/Lightweight-Encryption-Crypto-Project) - [cryptography.hazmat, OpenCV, PyCrypto (Crypto.Cipher, Crypto.PublicKey, Crypto.Random), Jupyter, ChaCha20, Salsa20, RC4, Hybrid encryption (RSA + AES), and 3DE]
   
     </td>
     <td valign="top" width="34%">
@@ -164,7 +164,7 @@
     <td valign="top" width="33%">
 
 ### Web-Scraping & Automation
-- [Hacker-News-Sorting-Validation](https://github.com/Anou26/Hacker-News-Sorting-Validation)
+- [Hacker-News-Sorting-Validation](https://github.com/Anou26/Hacker-News-Sorting-Validation) - [JavaScript, Playwright, NodeJS, npm]
 
 ### LeetCode Practice
 - **30 Days of LeetCode Topics (June-July 2024)** [LeetCode Topics](https://github.com/Anou26/30-Day-of-Code)
