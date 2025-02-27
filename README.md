@@ -133,7 +133,7 @@
 ### Data Science and Machine Learning
 - [Handwritten Digit Prediction](https://github.com/Anou26/Projects/blob/main/Handwritten_Digit_Prediction.ipynb) - [Keras]
 - [Stock Prediction using Facebook Prophet](https://github.com/Anou26/Projects/blob/main/Stocks_using_Facebook_Prophet.ipynb) - [Streamlit, fbProphet, Pandas, Numpy, Plotly]
-- [Hybrid Movie Recommendation System](https://github.com/Anou26/Projects/blob/main/CIS563_Term_Project.ipynb)
+- [Hybrid Movie Recommendation System](https://github.com/Anou26/Hybrid-Movie-Recommendation-System/tree/main) - [Scikit-learn, Surprise Library, Pandas, NumPy, KNN, SVD, SVD++, Matrix Factorization]
 
 ### Deep Learning
 - [Heart Attack Detection using Sequential Model](https://github.com/Anou26/Projects/blob/main/Heart_Attack_detection.ipynb) - [Tensorflow, Keras, Numpy, Pandas, Matplotlib]
