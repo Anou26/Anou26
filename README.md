@@ -169,7 +169,7 @@
     <td valign="top" width="33%">
 
 ### LeetCode Practice
-- **30 Days of LeetCode** [LeetCode Topics](https://github.com/Anou26/30-Day-of-Code)[LeetCode Solutions](https://github.com/Anou26/LeetCode-Coding)
+- **30 Days of LeetCode** [LeetCode Topics](https://github.com/Anou26/30-Day-of-Code)-[LeetCode Solutions](https://github.com/Anou26/LeetCode-Coding)
 - **LeetCode SQL Prep** [LeetCode SQL](https://github.com/Anou26/My-LeetCode-SQL-Prep)
 - **LeetCode Pandas Prep** [LeetCode Pandas](https://github.com/Anou26/My-LeetCode-Pandas-Prep)
 - **LeetCode DSA Prep** [LeetCode DSA](https://github.com/Anou26/LeetCode-Prep)
