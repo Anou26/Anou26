@@ -147,10 +147,10 @@
     <td valign="top" width="34%">
 
 ### AI, NLP, LLMs
-- [WellBot: AI Support Healthcare and Mental Health ChatBot](https://github.com/Riya-JK/WellBot) - [scikit-learn, pandas, pyttsx3, matplotlib, google-auth-oauthlib, google-pasta, joblib, keras, matplotlib, nltk, numpy, oauthlib, pandas, pytz, regex, Tensorflow, Plotly, PyTorch]
+- [WellBot: AI Support Healthcare and Mental Health ChatBot](https://github.com/Riya-JK/WellBot) - [Scikit-learn, google-auth-oauthlib, google-pasta, Joblib, Keras, Matplotlib, Nltk, Numpy, oauthlib, Pandas, pytz, Regex, Tensorflow, Plotly, PyTorch]
 - [Gomoku AI](https://github.com/Anou26/Gomoku-AI) - [Python, PyTorch, Scikit-learn, Numpy, CNN, Minimax Algorithm with Custom Heuristic, Matplotlib, Pandas]
-- [COVID Tweet-Sentiment (Dual Model Analysis of the Pandemic)](https://github.com/Anou26/COVID-Tweet-Sentiment-Dual-Model-Analysis-of-the-Pandemic)
-- [COVID Tweet-Sentiment (Multiclass Classification Models Empirical Analysis)](https://github.com/Anou26/Empirical-Study-and-Comparison-Project)
+- [COVID Tweet-Sentiment (Dual Model Analysis of the Pandemic)](https://github.com/Anou26/COVID-Tweet-Sentiment-Dual-Model-Analysis-of-the-Pandemic) - [DistilBERT, Naive Bayes, Transformers, NLP, NLTK]
+- [COVID Tweet-Sentiment (Multiclass Classification Models Empirical Analysis)](https://github.com/Anou26/Empirical-Study-and-Comparison-Project) - [Naive Bayes, Logistic Regression, Extreme Gradient Boost (XGBoost), Stochastic Gradient Descent (SGD), Random Forest, Support Vector Machine (SVM), Bidirectional Long Short-Term Memory (BiLSTM), Backpropagation Neural Networks (BPNN), EDA, NLP]
 - [Basic ChatBot](https://github.com/Anou26/Projects/blob/main/Chatbot.ipynb)
 - [Web Searching AI Assistant](https://github.com/Anou26/ai-assistant-web-searching)
 
