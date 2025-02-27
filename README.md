@@ -135,7 +135,7 @@
 - [Gomoku AI](https://github.com/Anou26/Gomoku-AI) - [Python, PyTorch, Scikit-learn, Numpy, CNN, Minimax Algorithm with Custom Heuristic, Matplotlib, Pandas]
 - [COVID Tweet-Sentiment (Dual Model Analysis of the Pandemic)](https://github.com/Anou26/COVID-Tweet-Sentiment-Dual-Model-Analysis-of-the-Pandemic) - [DistilBERT, Naive Bayes, Transformers, NLP, NLTK]
 - [COVID Tweet-Sentiment (Multiclass Classification Models Empirical Analysis)](https://github.com/Anou26/Empirical-Study-and-Comparison-Project) - [Naive Bayes, Logistic Regression, Extreme Gradient Boost (XGBoost), Stochastic Gradient Descent (SGD), Random Forest, Support Vector Machine (SVM), Bidirectional Long Short-Term Memory (BiLSTM), Backpropagation Neural Networks (BPNN), EDA, NLP]
-- - [Web Searching AI Assistant](https://github.com/Anou26/ai-assistant-web-searching) - [Open AI API, DuckDuckGo, Streamlit, Pandas, Scikit-learn, altair]
+- [Web Searching AI Assistant](https://github.com/Anou26/ai-assistant-web-searching) - [Open AI API, DuckDuckGo, Streamlit, Pandas, Scikit-learn, altair]
 - [Basic ChatBot](https://github.com/Anou26/Projects/blob/main/Chatbot.ipynb) - [NLP. nltk]
 
 
