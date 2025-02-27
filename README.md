@@ -159,7 +159,7 @@
 - [Smart TextBook Exchange Web Application](https://github.com/Anou26/Smart-TextBook-Exchange-Web-App-) - [Java, JDK, IntelliJ, Lombok, Gradle, Maven, SpringBoot, MongoDB, Postman, Design Patterns]
 
 ### Data Engineering
-- [Real-Time Event Processing System using Azure Event Hubs and Apache Spark](https://github.com/Anou26/Real-Time-Event-Processing-System)
+- [Real-Time Event Processing System using Azure Event Hubs and Apache Spark](https://github.com/Anou26/Real-Time-Event-Processing-System) - [Azure Events Hub, Apache Spark, DataBricks, PySpark, fastavro]
    </td>
     <td valign="top" width="33%">
 
