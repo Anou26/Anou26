@@ -165,6 +165,9 @@
 - [COVID-19 Stock Price Forecasting using LSTM and ARIMA](https://github.com/Anou26/Mini-Project) - [LSTM, ARIMA, Matplotlib, Time Series Forecasting, Gradient Descent]
 - [Heart Attack Detection using Sequential Model](https://github.com/Anou26/Projects/blob/main/Heart_Attack_detection.ipynb) - [Tensorflow, Keras, Numpy, Pandas, Matplotlib]
 - [Handwritten Digit Prediction](https://github.com/Anou26/Projects/blob/main/Handwritten_Digit_Prediction.ipynb) - [Keras]
+
+### Research
+- [Cognitive Computing: The Future of Augmented Intelligence](https://github.com/Anou26/Cognitive_Computing)
    </td>
     <td valign="top" width="33%">
 
