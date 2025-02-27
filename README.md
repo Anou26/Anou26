@@ -130,21 +130,6 @@
   <tr>
     <td valign="top" width="33%">
 
-### Data Science and Machine Learning
-- [Handwritten Digit Prediction](https://github.com/Anou26/Projects/blob/main/Handwritten_Digit_Prediction.ipynb) - [Keras]
-- [Stock Prediction using Facebook Prophet](https://github.com/Anou26/Projects/blob/main/Stocks_using_Facebook_Prophet.ipynb) - [Streamlit, fbProphet, Pandas, Numpy, Plotly]
-- [Hybrid Movie Recommendation System](https://github.com/Anou26/Hybrid-Movie-Recommendation-System/tree/main) - [Scikit-learn, Surprise Library, Pandas, NumPy, KNN, SVD, SVD++, Matrix Factorization]
-
-### Deep Learning
-- [Heart Attack Detection using Sequential Model](https://github.com/Anou26/Projects/blob/main/Heart_Attack_detection.ipynb) - [Tensorflow, Keras, Numpy, Pandas, Matplotlib]
-- [COVID-19 Stock Price Forecasting using LSTM and ARIMA](https://github.com/Anou26/Mini-Project) - [LSTM, ARIMA, Matplotlib, Time Series Forecasting, Gradient Descent]
-
-### Cryptography
-- [Lightweight Encryption Methods for Protecting Medical Imaging Data in IoMT](https://github.com/Anou26/Lightweight-Encryption-Crypto-Project) - [cryptography.hazmat, OpenCV, PyCrypto (Crypto.Cipher, Crypto.PublicKey, Crypto.Random), Jupyter, ChaCha20, Salsa20, RC4, Hybrid encryption (RSA + AES), and 3DE]
-  
-    </td>
-    <td valign="top" width="34%">
-
 ### AI, NLP, LLMs
 - [WellBot: AI Support Healthcare and Mental Health ChatBot](https://github.com/Riya-JK/WellBot) - [Scikit-learn, google-auth-oauthlib, google-pasta, Joblib, Keras, Matplotlib, Nltk, Numpy, oauthlib, Pandas, pytz, Regex, Tensorflow, Plotly, PyTorch]
 - [Gomoku AI](https://github.com/Anou26/Gomoku-AI) - [Python, PyTorch, Scikit-learn, Numpy, CNN, Minimax Algorithm with Custom Heuristic, Matplotlib, Pandas]
@@ -153,14 +138,27 @@
 - [Basic ChatBot](https://github.com/Anou26/Projects/blob/main/Chatbot.ipynb) - [NLP. nltk]
 - [Web Searching AI Assistant](https://github.com/Anou26/ai-assistant-web-searching) - [Open AI API, Streamlit, Pandas, Scikit-learn, altair]
 
-### Web Application Development
+### Data Science, Machine Learning, Deep Learning
+- [Hybrid Movie Recommendation System](https://github.com/Anou26/Hybrid-Movie-Recommendation-System/tree/main) - [Scikit-learn, Surprise Library, Pandas, NumPy, KNN, SVD, SVD++, Matrix Factorization]
+- [Stock Prediction using Facebook Prophet](https://github.com/Anou26/Projects/blob/main/Stocks_using_Facebook_Prophet.ipynb) - [Streamlit, fbProphet, Pandas, Numpy, Plotly]
+- [COVID-19 Stock Price Forecasting using LSTM and ARIMA](https://github.com/Anou26/Mini-Project) - [LSTM, ARIMA, Matplotlib, Time Series Forecasting, Gradient Descent]
+- [Heart Attack Detection using Sequential Model](https://github.com/Anou26/Projects/blob/main/Heart_Attack_detection.ipynb) - [Tensorflow, Keras, Numpy, Pandas, Matplotlib]
+- [Handwritten Digit Prediction](https://github.com/Anou26/Projects/blob/main/Handwritten_Digit_Prediction.ipynb) - [Keras]
+   </td>
+    <td valign="top" width="33%">
+    
+### Full-Stack Development
 - [My Personal Website](https://github.com/Anou26/My-Website) - [Java, HTML, CSS, ReactJS, NodeJS, NextJS, TailwindCSS, npm, Vercel]
 - [Smart TextBook Exchange Web Application](https://github.com/Anou26/Smart-TextBook-Exchange-Web-App-) - [Java, JDK, IntelliJ, Lombok, Gradle, Maven, SpringBoot, MongoDB, Postman, Design Patterns]
+    
+### Cryptography
+- [Lightweight Encryption Methods for Protecting Medical Imaging Data in IoMT](https://github.com/Anou26/Lightweight-Encryption-Crypto-Project) - [cryptography.hazmat, OpenCV, PyCrypto (Crypto.Cipher, Crypto.PublicKey, Crypto.Random), Jupyter, ChaCha20, Salsa20, RC4, Hybrid encryption (RSA + AES), and 3DE]
 
 ### Data Engineering
 - [Real-Time Event Processing System using Azure Event Hubs and Apache Spark](https://github.com/Anou26/Real-Time-Event-Processing-System) - [Azure Events Hub, Apache Spark, DataBricks, PySpark, fastavro]
-   </td>
-    <td valign="top" width="33%">
+  
+    </td>
+    <td valign="top" width="34%">
 
 ### Web-Scraping & Automation
 - [Hacker-News-Sorting-Validation](https://github.com/Anou26/Hacker-News-Sorting-Validation) - [JavaScript, Playwright, NodeJS, npm]
