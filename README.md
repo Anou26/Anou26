@@ -131,8 +131,8 @@
     <td valign="top" width="33%">
 
 ### Data Science and Machine Learning
-- [Handwritten Digit Prediction](https://github.com/Anou26/Projects/blob/main/Handwritten_Digit_Prediction.ipynb) - [
-- [Stock Prediction using Facebook Prophet](https://github.com/Anou26/Projects/blob/main/Stocks_using_Facebook_Prophet.ipynb)
+- [Handwritten Digit Prediction](https://github.com/Anou26/Projects/blob/main/Handwritten_Digit_Prediction.ipynb) - [Keras]
+- [Stock Prediction using Facebook Prophet](https://github.com/Anou26/Projects/blob/main/Stocks_using_Facebook_Prophet.ipynb) - [Streamlit, fbProphet, Pandas, Numpy, Plotly]
 - [Hybrid Movie Recommendation System](https://github.com/Anou26/Projects/blob/main/CIS563_Term_Project.ipynb)
 
 ### Deep Learning
