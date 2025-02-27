@@ -130,7 +130,7 @@
   <tr>
     <td valign="top" width="33%">
 
-### AI, NLP, LLMs
+### <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> AI, NLP, LLMs
 - [WellBot: AI Support Healthcare and Mental Health ChatBot](https://github.com/Riya-JK/WellBot) - [Scikit-learn, google-auth-oauthlib, google-pasta, Joblib, Keras, Matplotlib, Nltk, Numpy, oauthlib, Pandas, pytz, Regex, Tensorflow, Plotly, PyTorch]
 - [Gomoku AI](https://github.com/Anou26/Gomoku-AI) - [Python, PyTorch, Scikit-learn, Numpy, CNN, Minimax Algorithm with Custom Heuristic, Matplotlib, Pandas]
 - [COVID Tweet-Sentiment (Dual Model Analysis of the Pandemic)](https://github.com/Anou26/COVID-Tweet-Sentiment-Dual-Model-Analysis-of-the-Pandemic) - [DistilBERT, Naive Bayes, Transformers, NLP, NLTK]
@@ -143,41 +143,41 @@
     <td valign="top" width="34%">
 
     
-### Full-Stack Development
+### <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> Full-Stack Development
 - [My Personal Website](https://github.com/Anou26/My-Website) - [Java, HTML, CSS, ReactJS, NodeJS, NextJS, TailwindCSS, npm, Vercel]
 - [Smart TextBook Exchange Web Application](https://github.com/Anou26/Smart-TextBook-Exchange-Web-App-) - [Java, JDK, IntelliJ, Lombok, Gradle, Maven, SpringBoot, MongoDB, Postman, Design Patterns]
     
-### Cryptography
+### <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> Cryptography
 - [Lightweight Encryption Methods for Protecting Medical Imaging Data in IoMT](https://github.com/Anou26/Lightweight-Encryption-Crypto-Project) - [cryptography.hazmat, OpenCV, PyCrypto (Crypto.Cipher, Crypto.PublicKey, Crypto.Random), Jupyter, ChaCha20, Salsa20, RC4, Hybrid encryption (RSA + AES), and 3DE]
 
-### Data Engineering
+### <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> Data Engineering
 - [Real-Time Event Processing System using Azure Event Hubs and Apache Spark](https://github.com/Anou26/Real-Time-Event-Processing-System) - [Azure Events Hub, Apache Spark, DataBricks, PySpark, fastavro]
 
-### Web-Scraping, Software Testing and Automation
+### <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> Web-Scraping, Software Testing and Automation
 - [Hacker-News-Sorting-Validation](https://github.com/Anou26/Hacker-News-Sorting-Validation) - [JavaScript, Playwright, NodeJS, npm]
   
     </td>
     <td valign="top" width="34%">
 
-### Data Science, Machine Learning, Deep Learning
+### <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> Data Science, Machine Learning, Deep Learning
 - [Hybrid Movie Recommendation System](https://github.com/Anou26/Hybrid-Movie-Recommendation-System/tree/main) - [Scikit-learn, Surprise Library, Pandas, NumPy, KNN, SVD, SVD++, Matrix Factorization]
 - [Stock Prediction using Facebook Prophet](https://github.com/Anou26/Projects/blob/main/Stocks_using_Facebook_Prophet.ipynb) - [Streamlit, fbProphet, Pandas, Numpy, Plotly]
 - [COVID-19 Stock Price Forecasting using LSTM and ARIMA](https://github.com/Anou26/Mini-Project) - [LSTM, ARIMA, Matplotlib, Time Series Forecasting, Gradient Descent]
 - [Heart Attack Detection using Sequential Model](https://github.com/Anou26/Projects/blob/main/Heart_Attack_detection.ipynb) - [Tensorflow, Keras, Numpy, Pandas, Matplotlib]
 - [Handwritten Digit Prediction](https://github.com/Anou26/Projects/blob/main/Handwritten_Digit_Prediction.ipynb) - [Keras]
 
-### Research
+### <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> Research
 - [Cognitive Computing: The Future of Augmented Intelligence](https://github.com/Anou26/Cognitive_Computing)
    </td>
     <td valign="top" width="33%">
 
-### LeetCode Practice
+### <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> LeetCode Practice
 - **30 Days of LeetCode** [LeetCode Topics](https://github.com/Anou26/30-Day-of-Code)-[LeetCode Solutions](https://github.com/Anou26/LeetCode-Coding)
 - **LeetCode SQL Prep** [LeetCode SQL](https://github.com/Anou26/My-LeetCode-SQL-Prep)
 - **LeetCode Pandas Prep** [LeetCode Pandas](https://github.com/Anou26/My-LeetCode-Pandas-Prep)
 - **LeetCode DSA Prep** [LeetCode DSA](https://github.com/Anou26/LeetCode-Prep)
 
-### Currently Building 🎯👩‍💻
+### <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> Currently Building 🎯👩‍💻
 - **Full-Stack:** [My Service Pal: A MERN based App Offering Professional Services](https://github.com/Anou26/My-Service-Pal)
   
     </td>
