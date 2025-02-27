@@ -151,12 +151,12 @@
 - [Gomoku AI](https://github.com/Anou26/Gomoku-AI) - [Python, PyTorch, Scikit-learn, Numpy, CNN, Minimax Algorithm with Custom Heuristic, Matplotlib, Pandas]
 - [COVID Tweet-Sentiment (Dual Model Analysis of the Pandemic)](https://github.com/Anou26/COVID-Tweet-Sentiment-Dual-Model-Analysis-of-the-Pandemic) - [DistilBERT, Naive Bayes, Transformers, NLP, NLTK]
 - [COVID Tweet-Sentiment (Multiclass Classification Models Empirical Analysis)](https://github.com/Anou26/Empirical-Study-and-Comparison-Project) - [Naive Bayes, Logistic Regression, Extreme Gradient Boost (XGBoost), Stochastic Gradient Descent (SGD), Random Forest, Support Vector Machine (SVM), Bidirectional Long Short-Term Memory (BiLSTM), Backpropagation Neural Networks (BPNN), EDA, NLP]
-- [Basic ChatBot](https://github.com/Anou26/Projects/blob/main/Chatbot.ipynb)
-- [Web Searching AI Assistant](https://github.com/Anou26/ai-assistant-web-searching)
+- [Basic ChatBot](https://github.com/Anou26/Projects/blob/main/Chatbot.ipynb) - [NLP. nltk]
+- [Web Searching AI Assistant](https://github.com/Anou26/ai-assistant-web-searching) - [Open AI API, Streamlit, Pandas, Scikit-learn, altair]
 
 ### Web Application Development
-- [My Personal Website](https://github.com/Anou26/My-Website)
-- [Smart TextBook Exchange Web Application](https://github.com/Anou26/Smart-TextBook-Exchange-Web-App-)
+- [My Personal Website](https://github.com/Anou26/My-Website) - [Java, HTML, CSS, ReactJS, NodeJS, NextJS, TailwindCSS, npm, Vercel]
+- [Smart TextBook Exchange Web Application](https://github.com/Anou26/Smart-TextBook-Exchange-Web-App-) - [Java, JDK, IntelliJ, Lombok, Gradle, Maven, SpringBoot, MongoDB, Postman, Design Patterns]
 
 ### Data Engineering
 - [Real-Time Event Processing System using Azure Event Hubs and Apache Spark](https://github.com/Anou26/Real-Time-Event-Processing-System)
