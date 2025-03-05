@@ -201,8 +201,8 @@
 
 ### ⚡ Fun Facts About Me!
 
-- I'm a multi-passionate individual with a love for **Literature, Art, Economics and International Politics/Relations!**
-- I'm currently reading "The Defining Decade" by Meg Jay.
+- I can talk all day about my favourite literature (mostly memoirs and fiction), sketch charcoal portraits of your dog, and engage in discussion about international politics/relations!**
+- View my current read: https://www.goodreads.com/user/show/104686816-anoushka-mergoju
   
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 </p>
