@@ -187,16 +187,6 @@
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 </p>
 
-### 🌱 Current Studies (Feb 2025)  
-
-- Currently reading the following books:
-  (i) "**Ace the Data Science Interview**" by Kevin Huo and Nick Singh
-  (ii) "**Cracking the Coding Interview**" by Gayle Laakmann McDowell
-- LeetCoding: View my profile here: https://leetcode.com/u/AnouMer/
-
-</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
-</p>
-
 ### 👯 Collaboration Interests
 
 - Looking to collaborate on **Data Science and Data Engineering projects**, Hackathons, and Coding Contests.
