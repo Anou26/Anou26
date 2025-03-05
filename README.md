@@ -201,7 +201,7 @@
 
 ### ⚡ Fun Facts About Me!
 
-- I can talk all day about my favourite literature (mostly memoirs and fiction), sketch charcoal portraits of your dog, and engage in discussion about international politics/relations!**
+- I'm into literature, art and international politics! Hit me up if you wanna chat!
 - View my current read: https://www.goodreads.com/user/show/104686816-anoushka-mergoju
   
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
