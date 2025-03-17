@@ -193,7 +193,7 @@
 
 ### 💬 Expertise
 
-- Databases, Data Analytics, Big Data, NLP, ML, Data Structures and Algorithms, Programming languages like Python, Java, R, and SQL
+- Databases, Data Analytics, Big Data, NLP, ML, Data Structures and Algorithms, Programming languages like Python, Java, R, and SQL. I'm currently exploring HPCs, Distributed Systems and Large Language Models!
 
 ### 📫 Contact
 
